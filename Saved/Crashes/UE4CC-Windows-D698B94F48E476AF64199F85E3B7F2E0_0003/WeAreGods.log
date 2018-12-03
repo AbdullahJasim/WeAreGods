@@ -1,0 +1,1692 @@
+﻿Log file open, 11/16/18 17:15:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: WeAreGods
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.281454
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.17-01.15.04:689][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.17-01.15.04:689][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.17-01.15.04:701][  0]LogHAL: Display: Platform has ~ 32 GB [34270765056 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.17-01.15.04:701][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.17-01.15.04:701][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.17-01.15.04:702][  0]LogInit: Computer: DESKTOP-IU4E49L
+[2018.11.17-01.15.04:702][  0]LogInit: User: minta
+[2018.11.17-01.15.04:702][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.17-01.15.04:702][  0]LogInit: High frequency timer resolution =3.328121 MHz
+[2018.11.17-01.15.04:702][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.17-01.15.04:702][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.17-01.15.04:702][  0]LogMemory: Process Physical Memory: 101.32 MB used, 101.32 MB peak
+[2018.11.17-01.15.04:702][  0]LogMemory: Process Virtual Memory: 89.57 MB used, 89.57 MB peak
+[2018.11.17-01.15.04:702][  0]LogMemory: Physical Memory: 9148.53 MB used,  23534.62 MB free, 32683.15 MB total
+[2018.11.17-01.15.04:702][  0]LogMemory: Virtual Memory: 4638.75 MB used,  23534.62 MB free, 134217728.00 MB total
+[2018.11.17-01.15.04:716][  0]LogInit: Using OS detected language (en-US).
+[2018.11.17-01.15.04:716][  0]LogInit: Using OS detected locale (en-CA).
+[2018.11.17-01.15.04:716][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.17-01.15.05:055][  0]LogStreaming: Display: Took  0.339s to InitEngineTextLocalization.
+[2018.11.17-01.15.05:055][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.17-01.15.05:072][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.17-01.15.05:072][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.17-01.15.05:235][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.17-01.15.05:235][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.17-01.15.05:294][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.17-01.15.05:295][  0]LogD3D11RHI:       8086/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.17-01.15.05:296][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.17-01.15.05:296][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.17-01.15.05:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.17-01.15.05:302][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.17-01.15.05:302][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.17-01.15.05:302][  0]LogWindows: EnumDisplayDevices:
+[2018.11.17-01.15.05:302][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.11.17-01.15.05:302][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.17-01.15.05:302][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.17-01.15.05:302][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.17-01.15.05:302][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.17-01.15.05:302][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.17-01.15.05:302][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.11.17-01.15.05:303][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.11.17-01.15.05:303][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.11.17-01.15.05:328][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.17-01.15.05:401][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.17-01.15.05:497][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (C:/GitProjects/WeAreGods-Unreal/Intermediate/Shaders/WorkingDirectory/18848/).
+[2018.11.17-01.15.05:497][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/minta/AppData/Local/Temp/UnrealShaderWorkingDir/DFC8B58043A5F1A46A797F98ECB9FF15/'.
+[2018.11.17-01.15.05:725][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.17-01.15.05:737][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.17-01.15.05:752][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.17-01.15.05:763][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.17-01.15.05:778][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.17-01.15.05:790][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.17-01.15.05:801][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.17-01.15.05:811][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.17-01.15.05:816][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:891][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.17-01.15.05:892][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.17-01.15.05:949][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.17-01.15.05:949][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.17-01.15.05:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.17-01.15.05:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.17-01.15.05:987][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.17-01.15.05:999][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.17-01.15.06:011][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.17-01.15.06:024][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.17-01.15.06:035][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.17-01.15.06:035][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.17-01.15.06:091][  0]LogXGEController: Cleaning working directory: C:/Users/minta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.17-01.15.06:091][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.17-01.15.06:091][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.17-01.15.06:091][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.17-01.15.06:710][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/GitProjects/WeAreGods-Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/GitProjects/WeAreGods-Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.17-01.15.06:760][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.17-01.15.06:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.17-01.15.06:785][  0]LogDerivedDataCache: Using Local data cache path C:/Users/minta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.17-01.15.06:785][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.17-01.15.06:785][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.17-01.15.06:800][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.17-01.15.06:802][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.17-01.15.06:802][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.17-01.15.06:867][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2018.11.17-01.15.07:149][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.17-01.15.07:261][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.17-01.15.07:263][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.17-01.15.07:263][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.17-01.15.07:263][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.17-01.15.07:263][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.17-01.15.07:279][  0]LogNetVersion: WeAreGods 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1981251198)
+[2018.11.17-01.15.07:710][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.086126 seconds
+[2018.11.17-01.15.07:717][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.17-01.15.07:717][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.17-01.15.07:717][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.17-01.15.08:434][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.17-01.15.08:446][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.17-01.15.08:602][  0]SourceControl: Source control is disabled
+[2018.11.17-01.15.08:602][  0]SourceControl: Source control is disabled
+[2018.11.17-01.15.08:603][  0]SourceControl: Source control is disabled
+[2018.11.17-01.15.08:604][  0]SourceControl: Source control is disabled
+[2018.11.17-01.15.08:765][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.17-01.15.08:832][  0]LogOcInput: OculusInput pre-init called
+[2018.11.17-01.15.08:941][  0]LogEngine: Initializing Engine...
+[2018.11.17-01.15.08:942][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.17-01.15.08:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.17-01.15.08:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.17-01.15.08:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.17-01.15.08:943][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.17-01.15.09:116][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.17-01.15.09:124][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.17-01.15.09:187][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.15.09:200][  0]LogInit: FAudioDevice initialized.
+[2018.11.17-01.15.09:201][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.17-01.15.09:268][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.17-01.15.09:271][  0]LogInit: Texture streaming: Enabled
+[2018.11.17-01.15.09:281][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.17-01.15.09:292][  0]LogInit: Transaction tracking system initialized
+[2018.11.17-01.15.09:303][  0]BlueprintLog: New page: Editor Load
+[2018.11.17-01.15.09:352][  0]LocalizationService: Localization service is disabled
+[2018.11.17-01.15.09:555][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.17-01.15.09:555][  0]LogCook: Display: Mobile HDR setting 0
+[2018.11.17-01.15.09:555][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.17-01.15.09:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.17-01.15.09:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.17-01.15.09:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.17-01.15.09:555][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.17-01.15.09:679][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/' took 0.01s
+[2018.11.17-01.15.09:679][  0]SourceControl: Source control is disabled
+[2018.11.17-01.15.09:679][  0]Cmd: MAP LOAD FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.17-01.15.09:684][  0]LightingResults: New page: Lighting Build
+[2018.11.17-01.15.09:686][  0]MapCheck: New page: Map Check
+[2018.11.17-01.15.09:686][  0]LightingResults: New page: Lighting Build
+[2018.11.17-01.15.10:217][  0]LogTexture: Display: Building textures: bulletsprite (BGRA8, 239X178)
+[2018.11.17-01.15.10:269][  0]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.15.10:274][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.17-01.15.10:297][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.17-01.15.10:339][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.12ms to complete.
+[2018.11.17-01.15.10:339][  0]LogFileHelpers: Loading map 'Level_00' took 0.660
+[2018.11.17-01.15.10:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.15.10:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.15.10:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.15.10:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.15.10:483][  0]LogCollectionManager: Loaded 0 collections in 0.000708 seconds
+[2018.11.17-01.15.10:524][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Saved/Collections/' took 0.01s
+[2018.11.17-01.15.10:524][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/Developers/minta/Collections/' took 0.01s
+[2018.11.17-01.15.10:524][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/Collections/' took 0.01s
+[2018.11.17-01.15.10:524][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.17-01.15.10:532][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2572 classes and 603 folders.
+[2018.11.17-01.15.10:535][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.17-01.15.10:562][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.17-01.15.10:565][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.17-01.15.10:576][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.17-01.15.10:578][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.17-01.15.10:584][  0]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.17-01.15.10:641][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2018.11.17-01.15.10:682][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.17-01.15.10:770][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.17-01.15.10:770][  0]LogLoad: (Engine Initialization) Total time: 7.33 seconds
+[2018.11.17-01.15.10:770][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.17-01.15.10:840][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.17-01.15.53:308][533]LogAssetRegistry: Asset discovery search completed in 46.4637 seconds
+[2018.11.17-01.15.53:310][533]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.17-01.15.53:310][533]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.11.17-01.16.48:183][869]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.17-01.16.48:274][880]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.16.48:290][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.16.48:302][880]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:16:48 AM)
+[2018.11.17-01.16.48:302][880]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.16.48:303][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2018.11.17-01.16.48:304][880]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.16.48:304][880]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.11.17-01.16.48:304][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001934s)
+[2018.11.17-01.16.48:337][880]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.16.48:347][880]LogInit: FAudioDevice initialized.
+[2018.11.17-01.16.48:356][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.48:414][880]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.16.48:415][880]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.16.48
+[2018.11.17-01.16.48:416][880]LogWorld: Bringing up level for play took: 0.001355
+[2018.11.17-01.16.48:431][880]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.11.17-01.16.48:435][880]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.243
+[2018.11.17-01.16.48:469][880]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2018.11.17-01.16.51:175][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.51:191][201]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.16.51:224][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.16.51:278][203]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.17-01.16.52:183][309]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.16.52:200][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.16.52:200][309]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:16:52 AM)
+[2018.11.17-01.16.52:200][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.16.52:201][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2018.11.17-01.16.52:202][309]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.16.52:202][309]LogPlayLevel: PIE: World Init took: (0.000539s)
+[2018.11.17-01.16.52:202][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001853s)
+[2018.11.17-01.16.52:237][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.16.52:247][309]LogInit: FAudioDevice initialized.
+[2018.11.17-01.16.52:256][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.52:293][309]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.16.52:294][309]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.16.52
+[2018.11.17-01.16.52:294][309]LogWorld: Bringing up level for play took: 0.001196
+[2018.11.17-01.16.52:310][309]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.369
+[2018.11.17-01.16.54:397][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.54:417][550]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.16.54:450][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.16.54:501][553]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.11.17-01.16.55:368][657]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.16.55:383][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.16.55:383][657]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:16:55 AM)
+[2018.11.17-01.16.55:383][657]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.16.55:384][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001185s)
+[2018.11.17-01.16.55:385][657]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.16.55:385][657]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2018.11.17-01.16.55:385][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001779s)
+[2018.11.17-01.16.55:419][657]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.16.55:428][657]LogInit: FAudioDevice initialized.
+[2018.11.17-01.16.55:438][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.55:477][657]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.16.55:478][657]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.16.55
+[2018.11.17-01.16.55:479][657]LogWorld: Bringing up level for play took: 0.001329
+[2018.11.17-01.16.55:494][657]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.816
+[2018.11.17-01.16.56:516][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.16.56:533][774]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.16.56:564][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.16.56:620][778]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.17-01.16.58:085][928]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.17-01.16.58:192][928]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Blueprints/Herja.Herja
+[2018.11.17-01.16.59:696][928]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.11.17-01.17.02:945][928]LogSlate: Took 0.056176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.17-01.17.03:982][929]LogSlate: Took 0.025516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.17-01.17.14:416][784]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.HerjaClone
+[2018.11.17-01.17.31:357][453]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.17.33:077][496]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.17.33:119][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.17.33:119][496]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:17:33 AM)
+[2018.11.17-01.17.33:119][496]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.17.33:121][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001261s)
+[2018.11.17-01.17.33:121][496]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.17.33:121][496]LogPlayLevel: PIE: World Init took: (0.000592s)
+[2018.11.17-01.17.33:121][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001943s)
+[2018.11.17-01.17.33:201][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.17.33:210][496]LogInit: FAudioDevice initialized.
+[2018.11.17-01.17.33:219][496]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.33:267][496]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.17.33:268][496]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.17.33
+[2018.11.17-01.17.33:269][496]LogWorld: Bringing up level for play took: 0.001183
+[2018.11.17-01.17.33:288][496]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.609
+[2018.11.17-01.17.35:393][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.35:411][724]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.17.35:442][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.17.35:498][726]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.17-01.17.41:076][373]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.17.41:886][434]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.17.41:910][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.17.41:910][434]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:17:41 AM)
+[2018.11.17-01.17.41:910][434]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.17.41:912][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001361s)
+[2018.11.17-01.17.41:912][434]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.17.41:913][434]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2018.11.17-01.17.41:913][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002092s)
+[2018.11.17-01.17.41:948][434]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.17.41:959][434]LogInit: FAudioDevice initialized.
+[2018.11.17-01.17.41:968][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.42:013][434]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.17.42:014][434]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.17.42
+[2018.11.17-01.17.42:015][434]LogWorld: Bringing up level for play took: 0.001327
+[2018.11.17-01.17.42:034][434]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.645
+[2018.11.17-01.17.44:321][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.44:338][686]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.17.44:367][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.17.44:427][689]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.17-01.17.45:521][818]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.17.45:543][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.17.45:543][818]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:17:45 AM)
+[2018.11.17-01.17.45:543][818]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.17.45:545][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2018.11.17-01.17.45:545][818]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.17.45:545][818]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2018.11.17-01.17.45:545][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001915s)
+[2018.11.17-01.17.45:580][818]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.17.45:591][818]LogInit: FAudioDevice initialized.
+[2018.11.17-01.17.45:599][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.45:641][818]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.17.45:642][818]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.17.45
+[2018.11.17-01.17.45:642][818]LogWorld: Bringing up level for play took: 0.001199
+[2018.11.17-01.17.45:660][818]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.982
+[2018.11.17-01.17.48:026][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.48:044][ 72]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.17.48:074][ 72]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.17.48:127][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.17-01.17.56:636][ 74]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.17.57:396][126]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.17.57:416][126]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.17.57:416][126]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:17:57 AM)
+[2018.11.17-01.17.57:416][126]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.17.57:417][126]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001196s)
+[2018.11.17-01.17.57:418][126]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.17.57:418][126]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2018.11.17-01.17.57:418][126]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001813s)
+[2018.11.17-01.17.57:458][126]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.17.57:468][126]LogInit: FAudioDevice initialized.
+[2018.11.17-01.17.57:477][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.57:518][126]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.17.57:519][126]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.17.57
+[2018.11.17-01.17.57:519][126]LogWorld: Bringing up level for play took: 0.001307
+[2018.11.17-01.17.57:539][126]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.86
+[2018.11.17-01.17.59:848][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.17.59:865][385]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.17.59:892][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.17.59:949][388]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.17-01.18.02:149][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.18.02:424][631]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone0B30CCE74458BF79123E858D73B90328.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.18.03:254][726]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.18.03:275][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.18.03:276][726]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:18:03 AM)
+[2018.11.17-01.18.03:276][726]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.18.03:278][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001835s)
+[2018.11.17-01.18.03:278][726]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.18.03:278][726]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.11.17-01.18.03:278][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002700s)
+[2018.11.17-01.18.03:319][726]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.18.03:329][726]LogInit: FAudioDevice initialized.
+[2018.11.17-01.18.03:339][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.18.03:382][726]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.18.03:383][726]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.18.03
+[2018.11.17-01.18.03:384][726]LogWorld: Bringing up level for play took: 0.001219
+[2018.11.17-01.18.03:403][726]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.725
+[2018.11.17-01.18.07:504][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.18.07:521][176]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.18.07:550][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.18.07:604][178]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.17-01.18.08:699][308]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.18.08:722][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.18.08:722][308]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:18:08 AM)
+[2018.11.17-01.18.08:722][308]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.18.08:723][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001196s)
+[2018.11.17-01.18.08:724][308]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.18.08:724][308]LogPlayLevel: PIE: World Init took: (0.000521s)
+[2018.11.17-01.18.08:724][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001799s)
+[2018.11.17-01.18.08:763][308]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.18.08:772][308]LogInit: FAudioDevice initialized.
+[2018.11.17-01.18.08:780][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.18.08:827][308]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.18.08:829][308]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.18.08
+[2018.11.17-01.18.08:829][308]LogWorld: Bringing up level for play took: 0.001265
+[2018.11.17-01.18.08:847][308]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.168
+[2018.11.17-01.18.14:905][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.18.14:924][974]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.18.14:956][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.18.15:010][976]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.17-01.25.17:378][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.25.17:400][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.25.17:400][611]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:25:17 AM)
+[2018.11.17-01.25.17:401][611]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.25.17:402][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001439s)
+[2018.11.17-01.25.17:403][611]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.25.17:403][611]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.11.17-01.25.17:403][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002220s)
+[2018.11.17-01.25.17:439][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.25.17:450][611]LogInit: FAudioDevice initialized.
+[2018.11.17-01.25.17:458][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.17:506][611]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.25.17:507][611]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.25.17
+[2018.11.17-01.25.17:508][611]LogWorld: Bringing up level for play took: 0.001593
+[2018.11.17-01.25.17:527][611]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.849
+[2018.11.17-01.25.18:851][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.18:873][750]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.25.18:903][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.25.18:959][752]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.17-01.25.19:657][833]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.25.19:678][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.25.19:678][833]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:25:19 AM)
+[2018.11.17-01.25.19:678][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.25.19:680][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001393s)
+[2018.11.17-01.25.19:680][833]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.25.19:680][833]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2018.11.17-01.25.19:680][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002024s)
+[2018.11.17-01.25.19:724][833]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.25.19:734][833]LogInit: FAudioDevice initialized.
+[2018.11.17-01.25.19:743][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.19:787][833]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.25.19:789][833]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.25.19
+[2018.11.17-01.25.19:789][833]LogWorld: Bringing up level for play took: 0.001473
+[2018.11.17-01.25.19:807][833]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 1.129
+[2018.11.17-01.25.21:526][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.21:544][ 17]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.25.21:572][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.25.21:629][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.17-01.25.22:425][112]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.25.22:446][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.25.22:446][112]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:25:22 AM)
+[2018.11.17-01.25.22:446][112]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.25.22:448][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001271s)
+[2018.11.17-01.25.22:448][112]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.25.22:448][112]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.11.17-01.25.22:448][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001951s)
+[2018.11.17-01.25.22:487][112]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.25.22:497][112]LogInit: FAudioDevice initialized.
+[2018.11.17-01.25.22:506][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.22:554][112]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.25.22:555][112]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.25.22
+[2018.11.17-01.25.22:556][112]LogWorld: Bringing up level for play took: 0.001156
+[2018.11.17-01.25.22:575][112]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.104
+[2018.11.17-01.25.26:394][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.26:413][530]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.25.26:447][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.25.26:495][532]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.17-01.25.27:329][628]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.25.27:349][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.25.27:349][628]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:25:27 AM)
+[2018.11.17-01.25.27:349][628]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.25.27:350][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001203s)
+[2018.11.17-01.25.27:351][628]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.25.27:351][628]LogPlayLevel: PIE: World Init took: (0.000540s)
+[2018.11.17-01.25.27:351][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001834s)
+[2018.11.17-01.25.27:386][628]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.25.27:396][628]LogInit: FAudioDevice initialized.
+[2018.11.17-01.25.27:404][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.27:446][628]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.25.27:447][628]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.25.27
+[2018.11.17-01.25.27:448][628]LogWorld: Bringing up level for play took: 0.001541
+[2018.11.17-01.25.27:466][628]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.788
+[2018.11.17-01.25.31:481][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.25.31:500][ 61]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.25.31:529][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.25.31:583][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.11.17-01.26.37:075][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-01.26.37:364][248]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Herja37B5CB63430B2BA8530B2F9F37569106.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-01.26.38:667][403]BlueprintLog: New page: Compile Herja
+[2018.11.17-01.26.39:524][456]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.26.39:546][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.26.39:546][456]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:26:39 AM)
+[2018.11.17-01.26.39:546][456]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.26.39:547][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001221s)
+[2018.11.17-01.26.39:548][456]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.26.39:548][456]LogPlayLevel: PIE: World Init took: (0.000609s)
+[2018.11.17-01.26.39:548][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001921s)
+[2018.11.17-01.26.39:591][456]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.26.39:601][456]LogInit: FAudioDevice initialized.
+[2018.11.17-01.26.39:610][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.26.39:656][456]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.26.39:658][456]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.26.39
+[2018.11.17-01.26.39:658][456]LogWorld: Bringing up level for play took: 0.001329
+[2018.11.17-01.26.39:675][456]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.996
+[2018.11.17-01.26.46:601][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.26.46:620][255]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.26.46:651][255]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.26.46:699][256]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.17-01.27.46:524][285]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.27.47:300][338]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.27.47:321][338]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.27.47:321][338]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:27:47 AM)
+[2018.11.17-01.27.47:321][338]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.27.47:323][338]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001354s)
+[2018.11.17-01.27.47:323][338]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.27.47:323][338]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.11.17-01.27.47:323][338]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002014s)
+[2018.11.17-01.27.47:365][338]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.27.47:375][338]LogInit: FAudioDevice initialized.
+[2018.11.17-01.27.47:386][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.27.47:432][338]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.27.47:433][338]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.27.47
+[2018.11.17-01.27.47:433][338]LogWorld: Bringing up level for play took: 0.001272
+[2018.11.17-01.27.47:468][338]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.789
+[2018.11.17-01.27.50:698][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.27.50:717][687]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.27.50:747][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.27.50:804][690]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.11.17-01.27.54:851][161]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.27.55:918][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.27.55:987][244]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneF6DEE45747F73E35F742E4A057A9D9AB.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.27.56:617][318]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.27.56:638][318]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.27.56:638][318]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:27:56 AM)
+[2018.11.17-01.27.56:638][318]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.27.56:640][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001276s)
+[2018.11.17-01.27.56:640][318]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.27.56:640][318]LogPlayLevel: PIE: World Init took: (0.000519s)
+[2018.11.17-01.27.56:640][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001917s)
+[2018.11.17-01.27.56:675][318]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.27.56:685][318]LogInit: FAudioDevice initialized.
+[2018.11.17-01.27.56:694][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.27.56:741][318]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.27.56:742][318]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.27.56
+[2018.11.17-01.27.56:742][318]LogWorld: Bringing up level for play took: 0.001357
+[2018.11.17-01.27.56:759][318]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.081
+[2018.11.17-01.27.59:944][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.27.59:964][666]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.27.59:992][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.28.00:048][668]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.17-01.28.04:066][127]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.28.04:977][198]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.28.04:998][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.28.04:998][198]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:28:04 AM)
+[2018.11.17-01.28.04:998][198]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.28.04:999][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001239s)
+[2018.11.17-01.28.05:000][198]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.28.05:000][198]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.11.17-01.28.05:000][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002097s)
+[2018.11.17-01.28.05:041][198]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.28.05:051][198]LogInit: FAudioDevice initialized.
+[2018.11.17-01.28.05:060][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.28.05:108][198]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.28.05:109][198]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.28.05
+[2018.11.17-01.28.05:110][198]LogWorld: Bringing up level for play took: 0.001272
+[2018.11.17-01.28.05:130][198]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.452
+[2018.11.17-01.28.09:266][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.28.09:287][650]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.28.09:317][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.28.09:372][652]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.17-01.28.31:770][ 44]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.025
+[2018.11.17-01.28.31:793][ 44]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone] ([1] browsable assets)...
+[2018.11.17-01.28.31:793][ 44]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone]
+[2018.11.17-01.28.31:855][ 44]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone_Auto1E0387AD5454F80D65C84F7AE08A7F7A7.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone_Auto1.uasset'
+[2018.11.17-01.28.31:856][ 44]LogFileHelpers: Auto-saving content packages took 0.084
+[2018.11.17-01.35.23:769][999]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.11.17-01.35.56:777][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.35.56:854][736]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone137BC9F84B27AFFD9CC3EBA87D10E30C.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.36.31:344][523]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.36.32:218][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.36.32:289][582]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone68B1CC994E6A30FB64B2D0A87FDC3EB1.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.36.35:622][764]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.36.35:643][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.36.35:643][764]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:36:35 AM)
+[2018.11.17-01.36.35:643][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.36.35:645][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001270s)
+[2018.11.17-01.36.35:645][764]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.36.35:645][764]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2018.11.17-01.36.35:645][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001989s)
+[2018.11.17-01.36.35:690][764]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.36.35:702][764]LogInit: FAudioDevice initialized.
+[2018.11.17-01.36.35:711][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.36.35:757][764]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.36.35:758][764]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.36.35
+[2018.11.17-01.36.35:759][764]LogWorld: Bringing up level for play took: 0.001250
+[2018.11.17-01.36.35:777][764]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 1.099
+[2018.11.17-01.36.51:700][183]LogCharacterMovement: Herja_C_0 is stuck and failed to move! Velocity: X=586.89 Y=0.00 Z=0.00 Location: X=-1461.27 Y=0.00 Z=-831.17 Normal: X=-0.00 Y=-1.00 Z=-0.00 PenetrationDepth:45.000 Actor:OdinTile_2_Sprite_9 Component:RenderComponent BoneName:None (0 other events since notify)
+[2018.11.17-01.36.55:231][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.36.55:253][495]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.36.55:288][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.36.55:348][496]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.11.17-01.37.07:361][773]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.37.07:381][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.37.07:381][773]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:37:07 AM)
+[2018.11.17-01.37.07:381][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.37.07:383][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001398s)
+[2018.11.17-01.37.07:383][773]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.37.07:383][773]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2018.11.17-01.37.07:383][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002118s)
+[2018.11.17-01.37.07:421][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.37.07:430][773]LogInit: FAudioDevice initialized.
+[2018.11.17-01.37.07:440][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.37.07:487][773]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.37.07:488][773]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.37.07
+[2018.11.17-01.37.07:488][773]LogWorld: Bringing up level for play took: 0.001219
+[2018.11.17-01.37.07:507][773]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.828
+[2018.11.17-01.37.11:220][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.37.11:238][122]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.37.11:269][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.37.11:329][123]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.17-01.37.43:333][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-01.37.43:581][824]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaD62E7FFA43F0DD77E0D5F3BB02B4D5BE.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-01.37.57:154][162]BlueprintLog: New page: Compile Herja
+[2018.11.17-01.37.58:040][185]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.37.58:063][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.37.58:063][185]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:37:58 AM)
+[2018.11.17-01.37.58:063][185]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.37.58:065][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001489s)
+[2018.11.17-01.37.58:065][185]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.37.58:066][185]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2018.11.17-01.37.58:066][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002396s)
+[2018.11.17-01.37.58:106][185]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.37.58:116][185]LogInit: FAudioDevice initialized.
+[2018.11.17-01.37.58:125][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.37.58:180][185]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.37.58:181][185]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.37.58
+[2018.11.17-01.37.58:182][185]LogWorld: Bringing up level for play took: 0.001259
+[2018.11.17-01.37.58:207][185]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.472
+[2018.11.17-01.38.10:669][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.38.10:686][128]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.38.10:717][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.38.10:770][129]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.11.17-01.39.05:260][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.39.05:331][409]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone8A9F5DE2482068EB8417D4ABA04366DC.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.39.21:942][ 69]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-01.39.23:561][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-01.39.23:627][222]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneD4D5DE0648910A937A989EBBE857C387.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-01.39.24:757][354]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.39.24:779][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.39.24:779][354]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:39:24 AM)
+[2018.11.17-01.39.24:779][354]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.39.24:780][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001211s)
+[2018.11.17-01.39.24:781][354]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.39.24:781][354]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2018.11.17-01.39.24:781][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001863s)
+[2018.11.17-01.39.24:820][354]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.39.24:830][354]LogInit: FAudioDevice initialized.
+[2018.11.17-01.39.24:838][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.24:884][354]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.39.24:885][354]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.39.24
+[2018.11.17-01.39.24:886][354]LogWorld: Bringing up level for play took: 0.001211
+[2018.11.17-01.39.24:905][354]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.226
+[2018.11.17-01.39.30:834][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.30:851][975]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.39.30:884][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.39.30:947][976]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.11.17-01.39.32:473][155]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.39.32:494][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.39.32:495][155]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:39:32 AM)
+[2018.11.17-01.39.32:495][155]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.39.32:496][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001248s)
+[2018.11.17-01.39.32:496][155]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.39.32:497][155]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.11.17-01.39.32:497][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001875s)
+[2018.11.17-01.39.32:540][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.39.32:551][155]LogInit: FAudioDevice initialized.
+[2018.11.17-01.39.32:560][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.32:604][155]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.39.32:605][155]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.39.32
+[2018.11.17-01.39.32:606][155]LogWorld: Bringing up level for play took: 0.001550
+[2018.11.17-01.39.32:626][155]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.053
+[2018.11.17-01.39.40:848][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.40:865][ 29]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.39.40:897][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.39.40:950][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.11.17-01.39.42:236][181]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.39.42:257][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.39.42:257][181]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:39:42 AM)
+[2018.11.17-01.39.42:257][181]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.39.42:258][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001482s)
+[2018.11.17-01.39.42:259][181]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.39.42:259][181]LogPlayLevel: PIE: World Init took: (0.000566s)
+[2018.11.17-01.39.42:259][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002149s)
+[2018.11.17-01.39.42:300][181]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.39.42:309][181]LogInit: FAudioDevice initialized.
+[2018.11.17-01.39.42:318][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.42:361][181]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.39.42:362][181]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.39.42
+[2018.11.17-01.39.42:363][181]LogWorld: Bringing up level for play took: 0.001653
+[2018.11.17-01.39.42:382][181]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.297
+[2018.11.17-01.39.44:165][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.44:182][362]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.39.44:214][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.39.44:275][363]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.11.17-01.39.50:282][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-01.39.50:505][941]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Herja8C6D883D413DD9D77DF307AE42403965.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-01.39.52:307][ 48]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-01.39.52:327][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-01.39.52:327][ 48]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 9:39:52 AM)
+[2018.11.17-01.39.52:327][ 48]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-01.39.52:329][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.11.17-01.39.52:329][ 48]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-01.39.52:329][ 48]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2018.11.17-01.39.52:329][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001905s)
+[2018.11.17-01.39.52:369][ 48]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-01.39.52:381][ 48]LogInit: FAudioDevice initialized.
+[2018.11.17-01.39.52:390][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.39.52:440][ 48]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-01.39.52:441][ 48]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-17.39.52
+[2018.11.17-01.39.52:442][ 48]LogWorld: Bringing up level for play took: 0.001286
+[2018.11.17-01.39.52:466][ 48]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.213
+[2018.11.17-01.40.07:168][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-01.40.07:185][189]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-01.40.07:215][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-01.40.07:277][191]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.11.17-02.05.09:355][352]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.05.09:378][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.05.09:378][352]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:05:09 AM)
+[2018.11.17-02.05.09:378][352]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.05.09:380][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2018.11.17-02.05.09:381][352]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.05.09:381][352]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.11.17-02.05.09:381][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002549s)
+[2018.11.17-02.05.09:423][352]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.05.09:433][352]LogInit: FAudioDevice initialized.
+[2018.11.17-02.05.09:443][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.05.09:493][352]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.05.09:494][352]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.05.09
+[2018.11.17-02.05.09:495][352]LogWorld: Bringing up level for play took: 0.001472
+[2018.11.17-02.05.09:514][352]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.835
+[2018.11.17-02.05.12:393][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.05.12:410][645]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.05.12:444][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.05.12:504][646]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.11.17-02.06.00:488][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.06.00:566][188]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone2BA7EBDB4DC46A9C43F69799BB095548.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.06.12:105][482]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.06.13:909][647]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.06.13:929][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.06.13:929][647]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:06:13 AM)
+[2018.11.17-02.06.13:929][647]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.06.13:930][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.11.17-02.06.13:931][647]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.06.13:931][647]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2018.11.17-02.06.13:931][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001957s)
+[2018.11.17-02.06.13:973][647]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.06.13:983][647]LogInit: FAudioDevice initialized.
+[2018.11.17-02.06.13:993][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.14:038][647]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.06.14:040][647]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.06.14
+[2018.11.17-02.06.14:040][647]LogWorld: Bringing up level for play took: 0.001299
+[2018.11.17-02.06.14:058][647]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.62
+[2018.11.17-02.06.16:829][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.16:846][914]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.06.16:876][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.06.16:935][915]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.11.17-02.06.17:922][ 23]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.06.17:942][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.06.17:942][ 23]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:06:17 AM)
+[2018.11.17-02.06.17:942][ 23]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.06.17:943][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001281s)
+[2018.11.17-02.06.17:944][ 23]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.06.17:944][ 23]LogPlayLevel: PIE: World Init took: (0.000556s)
+[2018.11.17-02.06.17:944][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001935s)
+[2018.11.17-02.06.17:979][ 23]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.06.17:990][ 23]LogInit: FAudioDevice initialized.
+[2018.11.17-02.06.18:000][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.18:050][ 23]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.06.18:051][ 23]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.06.18
+[2018.11.17-02.06.18:051][ 23]LogWorld: Bringing up level for play took: 0.001266
+[2018.11.17-02.06.18:070][ 23]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.608
+[2018.11.17-02.06.18:722][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.18:739][ 80]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.06.18:771][ 80]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.06.18:829][ 81]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.11.17-02.06.25:619][814]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.06.26:832][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.06.26:898][909]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneB0BE23F94487017E3D958A97C3B3DDDE.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.06.27:239][947]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.06.27:262][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.06.27:262][947]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:06:27 AM)
+[2018.11.17-02.06.27:262][947]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.06.27:263][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001222s)
+[2018.11.17-02.06.27:264][947]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.06.27:264][947]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2018.11.17-02.06.27:264][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001834s)
+[2018.11.17-02.06.27:299][947]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.06.27:309][947]LogInit: FAudioDevice initialized.
+[2018.11.17-02.06.27:318][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.27:360][947]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.06.27:361][947]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.06.27
+[2018.11.17-02.06.27:362][947]LogWorld: Bringing up level for play took: 0.001413
+[2018.11.17-02.06.27:381][947]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.702
+[2018.11.17-02.06.31:381][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.06.31:398][325]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.06.31:431][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.06.31:493][326]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.11.17-02.06.34:415][664]LogEditorTransaction: Undo Change Number Pin Value
+[2018.11.17-02.06.35:918][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.06.35:990][818]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone7E3F538C481842F2E0A704875A30D825.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.06.59:255][402]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.07.00:136][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-02.07.00:350][463]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Herja00BF7B7041E76A797DAA64916CE596A0.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-02.07.00:672][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.00:692][501]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.17-02.07.00:716][501]LogPlayLevel: [PlayLevel] Compiling HerjaClone before play...
+[2018.11.17-02.07.00:878][501]LogPlayLevel: PlayLevel: Blueprint regeneration took 185 ms (1 blueprints)
+[2018.11.17-02.07.00:879][501]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:00 AM)
+[2018.11.17-02.07.00:879][501]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.00:880][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001213s)
+[2018.11.17-02.07.00:880][501]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.00:881][501]LogPlayLevel: PIE: World Init took: (0.000552s)
+[2018.11.17-02.07.00:881][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001872s)
+[2018.11.17-02.07.00:920][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.00:929][501]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.00:938][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.00:982][501]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.00:983][501]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.00
+[2018.11.17-02.07.00:984][501]LogWorld: Bringing up level for play took: 0.001467
+[2018.11.17-02.07.01:000][501]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.321
+[2018.11.17-02.07.08:207][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.08:224][340]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.07.08:252][340]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.07.08:311][343]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.11.17-02.07.24:641][174]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.07.25:323][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.07.25:390][212]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone2BD4ABBE45BA84ECA07620A9A6AD07BC.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.07.25:858][265]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.25:878][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.07.25:878][265]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:25 AM)
+[2018.11.17-02.07.25:878][265]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.25:879][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2018.11.17-02.07.25:880][265]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.25:880][265]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2018.11.17-02.07.25:880][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001908s)
+[2018.11.17-02.07.25:919][265]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.25:929][265]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.25:938][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.25:988][265]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.25:990][265]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.25
+[2018.11.17-02.07.25:991][265]LogWorld: Bringing up level for play took: 0.001887
+[2018.11.17-02.07.26:009][265]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.67
+[2018.11.17-02.07.27:106][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.27:125][376]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.07.27:157][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.07.27:211][377]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.11.17-02.07.28:415][518]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.28:435][518]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.07.28:435][518]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:28 AM)
+[2018.11.17-02.07.28:435][518]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.28:437][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001215s)
+[2018.11.17-02.07.28:437][518]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.28:437][518]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.11.17-02.07.28:437][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001863s)
+[2018.11.17-02.07.28:478][518]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.28:488][518]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.28:497][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.28:540][518]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.28:541][518]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.28
+[2018.11.17-02.07.28:542][518]LogWorld: Bringing up level for play took: 0.001328
+[2018.11.17-02.07.28:561][518]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.117
+[2018.11.17-02.07.30:268][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.30:284][688]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.07.30:316][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.07.30:373][689]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.11.17-02.07.31:570][826]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.31:590][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.07.31:590][826]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:31 AM)
+[2018.11.17-02.07.31:590][826]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.31:591][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001196s)
+[2018.11.17-02.07.31:592][826]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.31:592][826]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.11.17-02.07.31:592][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001848s)
+[2018.11.17-02.07.31:628][826]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.31:638][826]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.31:647][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.31:690][826]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.31:691][826]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.31
+[2018.11.17-02.07.31:691][826]LogWorld: Bringing up level for play took: 0.001282
+[2018.11.17-02.07.31:710][826]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 1.031
+[2018.11.17-02.07.37:388][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.37:405][415]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.07.37:437][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.07.37:489][416]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.11.17-02.07.38:459][527]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.38:480][527]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.07.38:480][527]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:38 AM)
+[2018.11.17-02.07.38:480][527]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.38:481][527]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001200s)
+[2018.11.17-02.07.38:481][527]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.38:482][527]LogPlayLevel: PIE: World Init took: (0.000523s)
+[2018.11.17-02.07.38:482][527]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001810s)
+[2018.11.17-02.07.38:522][527]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.38:531][527]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.38:541][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.38:590][527]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.38:591][527]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.38
+[2018.11.17-02.07.38:591][527]LogWorld: Bringing up level for play took: 0.001248
+[2018.11.17-02.07.38:610][527]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.069
+[2018.11.17-02.07.47:062][393]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.47:080][393]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.07.47:115][393]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.07.47:168][394]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.11.17-02.07.51:423][859]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.07.51:444][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.07.51:444][859]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:07:51 AM)
+[2018.11.17-02.07.51:444][859]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.07.51:445][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001278s)
+[2018.11.17-02.07.51:446][859]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.07.51:446][859]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.11.17-02.07.51:446][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002119s)
+[2018.11.17-02.07.51:487][859]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.07.51:497][859]LogInit: FAudioDevice initialized.
+[2018.11.17-02.07.51:506][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.07.51:554][859]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.07.51:555][859]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.07.51
+[2018.11.17-02.07.51:555][859]LogWorld: Bringing up level for play took: 0.001214
+[2018.11.17-02.07.51:575][859]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.897
+[2018.11.17-02.08.07:158][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.08.07:176][215]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.08.07:211][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.08.07:270][216]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.11.17-02.08.40:976][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-02.08.41:187][644]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Herja9B1FEEEA4ADF3C189A53E592CDB75CF9.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-02.08.52:208][719]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.08.53:090][745]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.08.53:112][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.08.53:112][745]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:08:53 AM)
+[2018.11.17-02.08.53:112][745]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.08.53:114][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2018.11.17-02.08.53:115][745]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.08.53:115][745]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2018.11.17-02.08.53:115][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002638s)
+[2018.11.17-02.08.53:150][745]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.08.53:161][745]LogInit: FAudioDevice initialized.
+[2018.11.17-02.08.53:170][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.08.53:219][745]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.08.53:220][745]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.08.53
+[2018.11.17-02.08.53:221][745]LogWorld: Bringing up level for play took: 0.001212
+[2018.11.17-02.08.53:246][745]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.568
+[2018.11.17-02.09.12:760][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.09.12:776][268]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.09.12:811][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.09.12:862][269]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2018.11.17-02.10.05:815][ 10]LogSlate: Took 0.027338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.11.17-02.10.35:272][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.10.35:335][408]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone5B9BCA5C418F5CEC85D68FAE69E6A181.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.10.46:208][573]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.10.46:382][573]LogBlueprint: Error: [Compiler Herja] Pin  Location  named Location doesn't match any parameters of function Split
+[2018.11.17-02.10.46:565][573]LogBlueprint: Warning: [Compiler Herja] [3343.13] Compile of Herja failed. 1 Fatal Issue(s) 0 Warning(s) [in 356 ms] (/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja.Herja)
+[2018.11.17-02.10.47:117][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-02.10.47:327][616]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaFABDCB7141E3FD0FFC436285D042CE8D.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-02.11.14:737][831]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.11.16:759][ 16]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.11.18:110][119]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.11.18:133][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.11.18:133][119]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:11:18 AM)
+[2018.11.17-02.11.18:133][119]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.11.18:134][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001238s)
+[2018.11.17-02.11.18:135][119]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.11.18:135][119]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.11.17-02.11.18:135][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001872s)
+[2018.11.17-02.11.18:180][119]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.11.18:190][119]LogInit: FAudioDevice initialized.
+[2018.11.17-02.11.18:199][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.11.18:253][119]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.11.18:254][119]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.11.18
+[2018.11.17-02.11.18:255][119]LogWorld: Bringing up level for play took: 0.001388
+[2018.11.17-02.11.18:277][119]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.401
+[2018.11.17-02.11.37:528][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.11.37:544][204]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.11.37:579][204]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.11.37:631][205]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2018.11.17-02.12.41:144][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-02.12.41:364][ 97]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaEE8936754BEAD72F71F1D2AB2D25146F.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-02.13.10:519][974]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.13.35:685][727]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.13.36:497][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.13.36:569][796]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone7C9E0EA0427832E919BF559E938C5B4A.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.13.36:973][844]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.13.36:996][844]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.13.36:996][844]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:13:36 AM)
+[2018.11.17-02.13.36:996][844]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.13.36:998][844]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001277s)
+[2018.11.17-02.13.36:998][844]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.13.36:998][844]LogPlayLevel: PIE: World Init took: (0.000579s)
+[2018.11.17-02.13.36:998][844]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001952s)
+[2018.11.17-02.13.37:040][844]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.13.37:050][844]LogInit: FAudioDevice initialized.
+[2018.11.17-02.13.37:059][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.13.37:098][844]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.13.37:099][844]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.13.37
+[2018.11.17-02.13.37:100][844]LogWorld: Bringing up level for play took: 0.001203
+[2018.11.17-02.13.37:117][844]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.438
+[2018.11.17-02.13.49:814][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.13.49:831][331]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.13.49:860][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.13.49:919][334]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.11.17-02.14.27:145][638]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.14.27:166][638]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.14.27:166][638]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:14:27 AM)
+[2018.11.17-02.14.27:166][638]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.14.27:167][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.11.17-02.14.27:168][638]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.14.27:168][638]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2018.11.17-02.14.27:168][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002057s)
+[2018.11.17-02.14.27:205][638]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.14.27:215][638]LogInit: FAudioDevice initialized.
+[2018.11.17-02.14.27:223][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.14.27:268][638]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.14.27:269][638]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.14.27
+[2018.11.17-02.14.27:269][638]LogWorld: Bringing up level for play took: 0.001313
+[2018.11.17-02.14.27:287][638]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.608
+[2018.11.17-02.14.37:399][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.14.37:417][627]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.14.37:446][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.14.37:503][629]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2018.11.17-02.15.36:644][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.15.36:707][573]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneCD9D82C14FB9E25A2D2BFAB1BEFD10EF.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.16.38:377][424]BlueprintLog: New page: Compile Herja
+[2018.11.17-02.16.39:407][486]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.16.39:430][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.16.39:430][486]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:16:39 AM)
+[2018.11.17-02.16.39:430][486]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.16.39:432][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001324s)
+[2018.11.17-02.16.39:432][486]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.16.39:432][486]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.11.17-02.16.39:432][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001988s)
+[2018.11.17-02.16.39:474][486]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.16.39:483][486]LogInit: FAudioDevice initialized.
+[2018.11.17-02.16.39:493][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.16.39:550][486]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.16.39:551][486]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.16.39
+[2018.11.17-02.16.39:552][486]LogWorld: Bringing up level for play took: 0.001229
+[2018.11.17-02.16.39:573][486]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.895
+[2018.11.17-02.16.41:597][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.16.41:614][682]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.16.41:647][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.16.41:704][683]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2018.11.17-02.16.43:976][943]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.16.43:999][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.16.43:999][943]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:16:43 AM)
+[2018.11.17-02.16.43:999][943]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.16.44:001][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001230s)
+[2018.11.17-02.16.44:001][943]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.16.44:001][943]LogPlayLevel: PIE: World Init took: (0.000524s)
+[2018.11.17-02.16.44:001][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001846s)
+[2018.11.17-02.16.44:041][943]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.16.44:051][943]LogInit: FAudioDevice initialized.
+[2018.11.17-02.16.44:061][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.16.44:115][943]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.16.44:116][943]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.16.44
+[2018.11.17-02.16.44:117][943]LogWorld: Bringing up level for play took: 0.001262
+[2018.11.17-02.16.44:141][943]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.538
+[2018.11.17-02.16.52:248][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.16.52:265][723]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.16.52:300][723]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.16.52:352][724]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2018.11.17-02.17.36:905][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.17.36:971][644]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone3F2916CE46B1932BA9EFA4BCA27E1977.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.18.07:053][110]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.18.09:189][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.18.09:255][331]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone94FC369F4897F8C598F9329DFCB748AB.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.18.10:054][424]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.18.10:075][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.18.10:075][424]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:18:10 AM)
+[2018.11.17-02.18.10:075][424]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.18.10:077][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001235s)
+[2018.11.17-02.18.10:077][424]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.18.10:077][424]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2018.11.17-02.18.10:077][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002031s)
+[2018.11.17-02.18.10:118][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.18.10:128][424]LogInit: FAudioDevice initialized.
+[2018.11.17-02.18.10:137][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.18.10:185][424]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.18.10:186][424]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.18.10
+[2018.11.17-02.18.10:187][424]LogWorld: Bringing up level for play took: 0.001361
+[2018.11.17-02.18.10:205][424]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.474
+[2018.11.17-02.18.23:880][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.18.23:897][897]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.18.23:926][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.18.23:984][899]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2018.11.17-02.18.52:930][229]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.18.53:711][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset" SILENT=true
+[2018.11.17-02.18.53:938][277]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaC85FBE564845E37A5C8B218A279D2554.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/Herja.uasset'
+[2018.11.17-02.18.53:942][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.18.53:998][277]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone974323A14970A5A195619D916AD7D2CB.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.18.54:430][327]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.18.54:450][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.18.54:450][327]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:18:54 AM)
+[2018.11.17-02.18.54:450][327]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.18.54:451][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001291s)
+[2018.11.17-02.18.54:452][327]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.18.54:452][327]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.11.17-02.18.54:452][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002160s)
+[2018.11.17-02.18.54:488][327]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.18.54:497][327]LogInit: FAudioDevice initialized.
+[2018.11.17-02.18.54:506][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.18.54:551][327]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.18.54:553][327]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.18.54
+[2018.11.17-02.18.54:553][327]LogWorld: Bringing up level for play took: 0.001335
+[2018.11.17-02.18.54:570][327]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.108
+[2018.11.17-02.19.07:084][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.19.07:103][643]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.19.07:136][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.19.07:183][645]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2018.11.17-02.19.08:408][790]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.19.08:428][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.19.08:428][790]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:19:08 AM)
+[2018.11.17-02.19.08:428][790]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.19.08:430][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001277s)
+[2018.11.17-02.19.08:430][790]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.19.08:430][790]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2018.11.17-02.19.08:430][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001943s)
+[2018.11.17-02.19.08:470][790]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.19.08:480][790]LogInit: FAudioDevice initialized.
+[2018.11.17-02.19.08:490][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.19.08:532][790]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.19.08:533][790]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.19.08
+[2018.11.17-02.19.08:534][790]LogWorld: Bringing up level for play took: 0.001282
+[2018.11.17-02.19.08:551][790]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.127
+[2018.11.17-02.19.11:699][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.19.11:716][119]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.19.11:751][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.19.11:806][121]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2018.11.17-02.19.12:827][241]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.19.12:849][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.19.12:850][241]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:19:12 AM)
+[2018.11.17-02.19.12:850][241]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.19.12:851][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001205s)
+[2018.11.17-02.19.12:851][241]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.19.12:851][241]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2018.11.17-02.19.12:851][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001806s)
+[2018.11.17-02.19.12:887][241]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.19.12:896][241]LogInit: FAudioDevice initialized.
+[2018.11.17-02.19.12:905][241]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.19.12:948][241]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.19.12:950][241]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.19.12
+[2018.11.17-02.19.12:950][241]LogWorld: Bringing up level for play took: 0.001344
+[2018.11.17-02.19.12:967][241]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.289
+[2018.11.17-02.19.19:447][929]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.19.19:466][929]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.19.19:499][929]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.19.19:552][931]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2018.11.17-02.20.30:914][472]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.20.31:346][509]LogEditorTransaction: Undo Add Node
+[2018.11.17-02.20.31:787][555]LogEditorTransaction: Undo Resize Node
+[2018.11.17-02.20.32:170][595]LogEditorTransaction: Undo Move Nodes
+[2018.11.17-02.20.32:580][638]LogEditorTransaction: Undo Move Nodes
+[2018.11.17-02.20.32:999][683]LogEditorTransaction: Undo Rename Node
+[2018.11.17-02.20.33:399][726]LogEditorTransaction: Undo Rename Node
+[2018.11.17-02.20.33:769][765]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.20.34:157][770]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.20.56:232][319]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.21.05:269][346]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.21.06:812][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.21.06:869][504]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone5CB132AF4F14BB33B9827CA7AC6EC481.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.21.07:380][562]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.21.07:400][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.21.07:400][562]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:21:07 AM)
+[2018.11.17-02.21.07:400][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.21.07:402][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001241s)
+[2018.11.17-02.21.07:402][562]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.21.07:402][562]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2018.11.17-02.21.07:402][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001937s)
+[2018.11.17-02.21.07:441][562]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.21.07:451][562]LogInit: FAudioDevice initialized.
+[2018.11.17-02.21.07:460][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.07:506][562]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.21.07:508][562]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.21.07
+[2018.11.17-02.21.07:508][562]LogWorld: Bringing up level for play took: 0.001480
+[2018.11.17-02.21.07:527][562]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.848
+[2018.11.17-02.21.09:087][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.09:107][719]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.21.09:141][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.21.09:199][720]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2018.11.17-02.21.25:550][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.21.25:606][592]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneE4CE4BDD480A3C0BC54DB4B03D5C14FB.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.21.33:776][545]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.21.34:744][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.21.34:766][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.21.34:766][631]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:21:34 AM)
+[2018.11.17-02.21.34:766][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.21.34:768][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001245s)
+[2018.11.17-02.21.34:768][631]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.21.34:768][631]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.11.17-02.21.34:768][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002096s)
+[2018.11.17-02.21.34:811][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.21.34:820][631]LogInit: FAudioDevice initialized.
+[2018.11.17-02.21.34:829][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.34:870][631]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.21.34:872][631]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.21.34
+[2018.11.17-02.21.34:873][631]LogWorld: Bringing up level for play took: 0.001376
+[2018.11.17-02.21.34:890][631]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.211
+[2018.11.17-02.21.35:209][659]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	HerjaClone_C /Game/UEDPIE_0_Level_00.Level_00:PersistentLevel.HerjaClone_C_0
+	Function /Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.HerjaClone_C:OnSplit:0000
+[2018.11.17-02.21.35:210][659]PIE: Error: Infinite loop detected. Blueprint:  HerjaClone Function:  OnSplit Call Stack:  Show
+[2018.11.17-02.21.35:210][659]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.35:227][659]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.21.35:256][659]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.21.35:320][660]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2018.11.17-02.21.41:463][375]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.21.42:085][424]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.21.42:108][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.21.42:108][424]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:21:42 AM)
+[2018.11.17-02.21.42:108][424]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.21.42:110][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001249s)
+[2018.11.17-02.21.42:110][424]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.21.42:110][424]LogPlayLevel: PIE: World Init took: (0.000531s)
+[2018.11.17-02.21.42:110][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001870s)
+[2018.11.17-02.21.42:151][424]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.21.42:160][424]LogInit: FAudioDevice initialized.
+[2018.11.17-02.21.42:170][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.42:212][424]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.21.42:213][424]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.21.42
+[2018.11.17-02.21.42:214][424]LogWorld: Bringing up level for play took: 0.001514
+[2018.11.17-02.21.42:232][424]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.447
+[2018.11.17-02.21.44:330][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.21.44:348][654]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.21.44:381][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.21.44:437][655]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2018.11.17-02.22.05:913][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.22.05:967][149]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone855F77C84B26D9DEF378C78F5A82E21A.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.22.53:632][675]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.22.53:772][675]LogBlueprint: Error: [Compiler HerjaClone] Could not find a function named "OnSplit" in 'HerjaClone_C'.
+Make sure 'HerjaClone_C' has been compiled for  On Split
+[2018.11.17-02.22.53:803][675]LogBlueprint: Warning: [Compiler Herja] Could not find the function 'Split' called from  Split
+[2018.11.17-02.22.53:811][675]LogBlueprint: Warning: [Compiler Herja] [4070.37] Compile of Herja successful, but with 1 Warning(s) [in 167 ms] (/Game/2DSideScrollerBP/Blueprints/Blueprints/Herja.Herja)
+[2018.11.17-02.22.53:960][675]LogBlueprint: Warning: [Compiler HerjaClone] [4070.52] Compile of HerjaClone failed. 1 Fatal Issue(s) 0 Warning(s) [in 327 ms] (/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.HerjaClone)
+[2018.11.17-02.22.55:373][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.22.55:435][837]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone9518AD2B4AB11B9A7D865092EBCCB42E.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.23.11:132][594]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.23.11:917][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.23.11:975][660]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone1B59DA6A4A3FBE5B31D69A9017ABC497.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.23.12:443][715]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.23.12:465][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.23.12:466][715]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:23:12 AM)
+[2018.11.17-02.23.12:466][715]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.23.12:467][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001252s)
+[2018.11.17-02.23.12:467][715]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.23.12:468][715]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2018.11.17-02.23.12:468][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001939s)
+[2018.11.17-02.23.12:510][715]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.23.12:519][715]LogInit: FAudioDevice initialized.
+[2018.11.17-02.23.12:529][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.23.12:570][715]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.23.12:572][715]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.23.12
+[2018.11.17-02.23.12:573][715]LogWorld: Bringing up level for play took: 0.001738
+[2018.11.17-02.23.12:589][715]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.09
+[2018.11.17-02.23.15:857][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.23.15:875][ 82]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.23.15:905][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.23.15:964][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2018.11.17-02.23.29:097][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.23.29:158][645]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneC7577E7B40BAA3FDE59023AC06973847.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.23.38:921][762]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.23.39:910][851]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.23.39:933][851]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.23.39:933][851]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:23:39 AM)
+[2018.11.17-02.23.39:933][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.23.39:934][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001214s)
+[2018.11.17-02.23.39:935][851]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.23.39:935][851]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.11.17-02.23.39:935][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001845s)
+[2018.11.17-02.23.39:971][851]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.23.39:981][851]LogInit: FAudioDevice initialized.
+[2018.11.17-02.23.39:990][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.23.40:038][851]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.23.40:039][851]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.23.40
+[2018.11.17-02.23.40:040][851]LogWorld: Bringing up level for play took: 0.001223
+[2018.11.17-02.23.40:057][851]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.622
+[2018.11.17-02.23.42:186][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.23.42:204][ 74]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.23.42:238][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.23.42:292][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2018.11.17-02.23.43:846][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.23.43:907][257]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaClone5D42F0704C711E2F9C7E3AAFADCB19B4.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.24.23:616][752]BlueprintLog: New page: Collapse to Function
+[2018.11.17-02.24.29:323][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset" SILENT=true
+[2018.11.17-02.24.29:392][412]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/HerjaCloneF5350D2A4813CD6724E60CB583856E71.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScrollerBP/Blueprints/Blueprints/HerjaClone.uasset'
+[2018.11.17-02.24.30:821][579]BlueprintLog: New page: Compile HerjaClone
+[2018.11.17-02.24.31:847][672]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.17-02.24.31:869][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.17-02.24.31:869][672]PIE: New page: PIE session: Level_00 (Nov 16, 2018, 10:24:31 AM)
+[2018.11.17-02.24.31:869][672]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.17-02.24.31:870][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001234s)
+[2018.11.17-02.24.31:871][672]LogAIModule: Creating AISystem for world Level_00
+[2018.11.17-02.24.31:871][672]LogPlayLevel: PIE: World Init took: (0.000567s)
+[2018.11.17-02.24.31:871][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001892s)
+[2018.11.17-02.24.31:911][672]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.17-02.24.31:921][672]LogInit: FAudioDevice initialized.
+[2018.11.17-02.24.31:930][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.24.31:971][672]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.17-02.24.31:972][672]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.16-18.24.31
+[2018.11.17-02.24.31:972][672]LogWorld: Bringing up level for play took: 0.001188
+[2018.11.17-02.24.31:991][672]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.688
+[2018.11.17-02.24.33:583][846]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.17-02.24.33:601][846]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.17-02.24.33:631][846]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.17-02.24.33:690][847]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2018.11.17-02.24.34:476][941]LogEditorTransaction: Undo Rename Function
+[2018.11.17-02.24.34:871][979]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2018.11.17-02.24.35:535][ 51]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.11.17-02.24.36:781][192]LogEditorTransaction: Undo Add Node
+[2018.11.17-02.24.37:436][264]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.11.17-02.24.38:177][347]LogEditorTransaction: Undo Add Node
+[2018.11.17-02.24.38:790][414]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.24.39:581][502]LogEditorTransaction: Undo Break Pin Link
+[2018.11.17-02.24.39:948][540]LogEditorTransaction: Undo Straighten Connection(s)
+[2018.11.17-02.24.40:282][574]LogEditorTransaction: Undo Create Pin Link
+[2018.11.17-02.24.40:592][605]LogEditorTransaction: Undo Move Nodes
+[2018.11.17-02.24.40:993][647]LogEditorTransaction: Undo Paste clipboard contents
+[2018.11.17-02.24.41:374][687]LogEditorTransaction: Undo Rename Function
+[2018.11.17-02.24.42:239][785]LogEditorTransaction: Undo Add New Function
+[2018.11.17-02.24.44:060][  0]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.24.44:652][ 68]LogEditorTransaction: Undo Delete current selection
+[2018.11.17-02.24.45:143][124]LogEditorTransaction: Undo Break Pin Link
+[2018.11.17-02.24.46:274][257]LogEditorTransaction: Undo Create Pin Link
+[2018.11.17-02.24.48:239][485]LogEditorTransaction: Undo Add Node
+[2018.11.17-02.24.48:640][527]LogEditorTransaction: Undo Break Pin Link
+[2018.11.17-02.24.49:024][567]LogEditorTransaction: Undo Create Pin Link
+[2018.11.17-02.24.49:243][587]LogEditorTransaction: Undo Resize Node
+[2018.11.17-02.24.49:431][604]LogEditorTransaction: Undo Move Nodes
+[2018.11.17-02.24.49:629][622]LogEditorTransaction: Undo Move Nodes
+[2018.11.17-02.24.51:317][816]LogEditorTransaction: Redo Move Nodes
+[2018.11.17-02.24.52:400][940]LogEditorTransaction: Redo Move Nodes
+[2018.11.17-02.24.52:566][954]LogEditorTransaction: Redo Resize Node
+[2018.11.17-02.24.52:728][968]LogEditorTransaction: Redo Create Pin Link
+[2018.11.17-02.24.52:878][980]LogEditorTransaction: Redo Break Pin Link
+[2018.11.17-02.24.53:043][994]LogEditorTransaction: Redo Add Node
+[2018.11.17-02.24.53:198][  7]LogEditorTransaction: Redo Create Pin Link
+[2018.11.17-02.24.53:345][ 19]LogEditorTransaction: Redo Break Pin Link
+[2018.11.17-02.24.53:525][ 35]LogEditorTransaction: Redo Delete current selection
+[2018.11.17-02.24.53:715][ 52]LogEditorTransaction: Redo Delete current selection
+[2018.11.17-02.24.53:717][ 52]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:717][ 52]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:717][ 52]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:718][ 52]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:877][ 66]LogEditorTransaction: Redo Add New Function
+[2018.11.17-02.24.53:879][ 66]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:879][ 66]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:879][ 66]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.53:879][ 66]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.54:044][ 80]LogEditorTransaction: Redo Rename Function
+[2018.11.17-02.24.54:044][ 80]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.54:045][ 80]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.54:045][ 80]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.54:045][ 80]LogBlueprint: Warning: FMemberReference::ResolveMember (ExecuteUbergraph_HerjaClone) bSelfContext == true, but no scope supplied!
+[2018.11.17-02.24.54:427][120]LogEditorTransaction: Redo Paste clipboard contents
+[2018.11.17-02.24.56:248][120]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.817 s
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: 
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: Ensure condition failed: ChangedObjects.Num() != 0 [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\EditorTransaction.cpp] [Line: 493]
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: 
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: Stack: 
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe82571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7f90c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7fab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba91cbcb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3ce3ea UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d24a9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.24.56:248][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d312c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d376e UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d20fc UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb8ff9d57 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb8ffa1b7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe92e4b5b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba73da6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7133036 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb71042b7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70f01a2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ee7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ed83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbac44713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9d4e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9da97e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba874ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba89ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba886535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8f2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba924a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8bc784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9be05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78a24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb123a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb111a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78670ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78d9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb560270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb55c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976d41 USER32.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976713 USER32.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb570646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9eb54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5bba UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed3dac UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18813034 KERNEL32.DLL!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e1471 ntdll.dll!UnknownFunction []
+[2018.11.17-02.24.56:249][120]LogOutputDevice: Error: 
+[2018.11.17-02.24.56:270][120]LogStats:                SubmitErrorReport -  0.018 s
+[2018.11.17-02.25.05:684][120]LogStats:                    SendNewReport -  9.414 s
+[2018.11.17-02.25.05:684][120]LogStats:             FDebug::EnsureFailed - 11.253 s
+[2018.11.17-02.25.05:685][120]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: Ensure condition failed: Pin->LinkedTo.Contains(ReferencingPin) || GEditor->Trans->IsObjectTransacting(Pin->GetOwningNode()) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1728]
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: Stack: 
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe82571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7f90c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7fab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3ce419 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d24a9 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d312c UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d376e UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc3d20fc UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb8ff9d57 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb8ffa1b7 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.11.17-02.25.05:685][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe92e4b5b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba73da6d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7133036 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb71042b7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70f01a2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ee7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ed83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbac44713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9d4e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9da97e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba874ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba89ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba886535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8f2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba924a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8bc784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9be05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78a24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb123a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb111a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78670ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78d9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb560270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb55c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976d41 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976713 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb570646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9eb54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5bba UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed3dac UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18813034 KERNEL32.DLL!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e1471 ntdll.dll!UnknownFunction []
+[2018.11.17-02.25.05:686][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.05:691][120]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.17-02.25.06:167][120]LogStats:                    SendNewReport -  0.476 s
+[2018.11.17-02.25.06:167][120]LogStats:             FDebug::EnsureFailed -  0.483 s
+[2018.11.17-02.25.06:247][120]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.041 s
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'B' on node 'float + float' not reciprocally linked with pin 'ReturnValue' on node 'float / float'
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: Stack: 
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe82571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7f90c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7fab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc38538f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc38518f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc384b89 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7139337 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7139714 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb711b23b UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb713305e UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb71042b7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70f01a2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ee7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ed83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbac44713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9d4e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9da97e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba874ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba89ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba886535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8f2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba924a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8bc784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9be05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78a24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb123a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb111a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78670ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78d9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb560270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb55c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976d41 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976713 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb570646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9eb54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5bba UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed3dac UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18813034 KERNEL32.DLL!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e1471 ntdll.dll!UnknownFunction []
+[2018.11.17-02.25.06:247][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.06:250][120]LogStats:                SubmitErrorReport -  0.000 s
+[2018.11.17-02.25.06:489][120]LogStats:                    SendNewReport -  0.240 s
+[2018.11.17-02.25.06:489][120]LogStats:             FDebug::EnsureFailed -  0.284 s
+[2018.11.17-02.25.06:490][120]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 476]
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'ReturnValue' on node 'float / float' not reciprocally linked with pin 'B' on node 'float + float'
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: Stack: 
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe82571f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7f90c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe7fab356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc38538f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc38518f UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbc384b89 UE4Editor-Engine.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7139337 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb7139714 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb711b23b UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb713305e UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb71042b7 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70f01a2 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ee7cf UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb70ed83d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbac44713 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9d4e4cd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9da97e9 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba874ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:490][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba89ffab UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba886535 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8f2dc5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba924a2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbba8bc784 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbb9be05b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78a24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb123a8e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbbb111a08 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78670ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78e606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbe78d9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56ce45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb560270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb56f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb55c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976d41 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18976713 USER32.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffbfb570646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9eb54e5 UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5b3c UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ec5bba UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed3dac UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ff7c9ed5aaa UE4Editor.exe!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffc18813034 KERNEL32.DLL!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e1471 ntdll.dll!UnknownFunction []
+[2018.11.17-02.25.06:491][120]LogOutputDevice: Error: 
+[2018.11.17-02.25.06:501][120]LogStats:                SubmitErrorReport -  0.000 s

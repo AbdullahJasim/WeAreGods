@@ -1,0 +1,1232 @@
+﻿Log file open, 11/26/18 23:01:30
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: WeAreGods
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.399586
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.102s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.27-07.01.32:541][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-07.01.32:541][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.27-07.01.32:561][  0]LogHAL: Display: Platform has ~ 32 GB [34270765056 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.27-07.01.32:561][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.27-07.01.32:561][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.27-07.01.32:566][  0]LogInit: Computer: DESKTOP-IU4E49L
+[2018.11.27-07.01.32:566][  0]LogInit: User: minta
+[2018.11.27-07.01.32:566][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.27-07.01.32:566][  0]LogInit: High frequency timer resolution =3.328121 MHz
+[2018.11.27-07.01.32:567][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.11.27-07.01.32:567][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.27-07.01.32:567][  0]LogMemory: Process Physical Memory: 101.69 MB used, 101.69 MB peak
+[2018.11.27-07.01.32:567][  0]LogMemory: Process Virtual Memory: 93.05 MB used, 93.05 MB peak
+[2018.11.27-07.01.32:567][  0]LogMemory: Physical Memory: 12526.69 MB used,  20156.46 MB free, 32683.15 MB total
+[2018.11.27-07.01.32:567][  0]LogMemory: Virtual Memory: 4642.38 MB used,  20156.46 MB free, 134217728.00 MB total
+[2018.11.27-07.01.33:494][  0]LogInit: Using OS detected language (en-US).
+[2018.11.27-07.01.33:494][  0]LogInit: Using OS detected locale (en-CA).
+[2018.11.27-07.01.33:495][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.27-07.01.33:896][  0]LogStreaming: Display: Took  0.403s to InitEngineTextLocalization.
+[2018.11.27-07.01.33:897][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.27-07.01.33:969][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.27-07.01.33:969][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.27-07.01.36:337][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-07.01.36:337][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.27-07.01.36:383][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.27-07.01.36:383][  0]LogD3D11RHI:       8086/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.27-07.01.36:385][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.27-07.01.36:385][  0]LogD3D11RHI:       0/0/16341 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.27-07.01.36:385][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.27-07.01.36:395][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.27-07.01.36:395][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.27-07.01.36:395][  0]LogWindows: EnumDisplayDevices:
+[2018.11.27-07.01.36:396][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.11.27-07.01.36:396][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.27-07.01.36:396][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.27-07.01.36:396][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.27-07.01.36:396][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.27-07.01.36:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.27-07.01.36:396][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.11.27-07.01.36:396][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.11.27-07.01.36:396][  0]LogRHI: Texture pool is 5660 MB (70% of 8086 MB)
+[2018.11.27-07.01.36:421][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.27-07.01.36:474][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.27-07.01.36:570][  0]LogShaderCompilers: Guid format shader working directory is 15 characters bigger than the processId version (C:/GitProjects/WeAreGods-Unreal/Intermediate/Shaders/WorkingDirectory/1372/).
+[2018.11.27-07.01.36:570][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/minta/AppData/Local/Temp/UnrealShaderWorkingDir/EAF14C084B8FF701E8DDA88826437363/'.
+[2018.11.27-07.01.37:018][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.27-07.01.37:074][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.27-07.01.37:121][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.27-07.01.37:162][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.27-07.01.37:213][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.27-07.01.37:260][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.27-07.01.37:311][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.27-07.01.37:359][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.27-07.01.37:398][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:575][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.27-07.01.37:596][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.27-07.01.37:758][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-07.01.37:758][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.27-07.01.37:810][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-07.01.37:810][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.27-07.01.37:860][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.27-07.01.37:883][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.27-07.01.37:936][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.27-07.01.38:002][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.27-07.01.38:028][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.27-07.01.38:028][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.27-07.01.40:175][  0]LogXGEController: Cleaning working directory: C:/Users/minta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.27-07.01.40:176][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.27-07.01.40:176][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.27-07.01.40:176][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.27-07.01.41:879][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.27-07.01.41:929][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.27-07.01.41:929][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.27-07.01.41:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/GitProjects/WeAreGods-Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.27-07.01.41:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.27-07.01.41:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/GitProjects/WeAreGods-Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.27-07.01.41:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.27-07.01.41:969][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.27-07.01.41:981][  0]LogDerivedDataCache: Using Local data cache path C:/Users/minta/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.27-07.01.41:981][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.27-07.01.41:981][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.27-07.01.41:999][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.27-07.01.42:000][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.27-07.01.42:014][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.27-07.01.42:193][  0]LogAssetRegistry: FAssetRegistry took 0.0261 seconds to start up
+[2018.11.27-07.01.42:484][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.27-07.01.43:673][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.27-07.01.43:965][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.27-07.01.43:965][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.27-07.01.43:965][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.27-07.01.43:965][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.27-07.01.44:011][  0]LogNetVersion: WeAreGods 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1981251198)
+[2018.11.27-07.01.44:929][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.098541 seconds
+[2018.11.27-07.01.44:935][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.27-07.01.44:935][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.27-07.01.44:935][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.27-07.01.50:068][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.27-07.01.50:159][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.27-07.01.51:618][  0]SourceControl: Source control is disabled
+[2018.11.27-07.01.51:618][  0]SourceControl: Source control is disabled
+[2018.11.27-07.01.51:693][  0]SourceControl: Source control is disabled
+[2018.11.27-07.01.51:720][  0]SourceControl: Source control is disabled
+[2018.11.27-07.01.53:931][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.27-07.01.54:225][  0]LogOcInput: OculusInput pre-init called
+[2018.11.27-07.01.54:607][  0]LogEngine: Initializing Engine...
+[2018.11.27-07.01.54:608][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.27-07.01.54:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.27-07.01.54:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-07.01.54:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.27-07.01.54:609][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-07.01.54:938][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.27-07.01.55:009][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.27-07.01.55:027][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.01.55:042][  0]LogInit: FAudioDevice initialized.
+[2018.11.27-07.01.55:042][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.27-07.01.55:105][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/minta/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.27-07.01.55:118][  0]LogInit: Texture streaming: Enabled
+[2018.11.27-07.01.55:385][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.27-07.01.55:494][  0]LogInit: Transaction tracking system initialized
+[2018.11.27-07.01.56:074][  0]BlueprintLog: New page: Editor Load
+[2018.11.27-07.01.57:977][  0]LocalizationService: Localization service is disabled
+[2018.11.27-07.01.59:701][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.27-07.01.59:701][  0]LogCook: Display: Mobile HDR setting 0
+[2018.11.27-07.01.59:701][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.27-07.01.59:701][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.27-07.01.59:701][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.27-07.01.59:701][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.27-07.01.59:701][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.27-07.02.00:338][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/' took 0.02s
+[2018.11.27-07.02.01:007][  0]SourceControl: Source control is disabled
+[2018.11.27-07.02.01:007][  0]Cmd: MAP LOAD FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.27-07.02.01:008][  0]LightingResults: New page: Lighting Build
+[2018.11.27-07.02.01:010][  0]MapCheck: New page: Map Check
+[2018.11.27-07.02.01:010][  0]LightingResults: New page: Lighting Build
+[2018.11.27-07.02.01:956][  0]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.02.01:958][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.27-07.02.01:981][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.27-07.02.02:028][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.779ms to complete.
+[2018.11.27-07.02.02:028][  0]LogFileHelpers: Loading map 'Level_00' took 1.021
+[2018.11.27-07.02.02:134][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.02.02:140][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.02.02:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.02.02:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.02.02:201][  0]LogCollectionManager: Loaded 0 collections in 0.000903 seconds
+[2018.11.27-07.02.02:249][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Saved/Collections/' took 0.01s
+[2018.11.27-07.02.02:249][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/Developers/minta/Collections/' took 0.01s
+[2018.11.27-07.02.02:249][  0]LogFileCache: Scanning file cache for directory 'C:/GitProjects/WeAreGods-Unreal/Content/Collections/' took 0.01s
+[2018.11.27-07.02.02:249][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.27-07.02.02:257][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2572 classes and 603 folders.
+[2018.11.27-07.02.02:262][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.27-07.02.02:543][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-07.02.02:576][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.27-07.02.02:596][  0]LogSlate: Took 0.005441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.27-07.02.02:604][  0]LogSlate: Took 0.005706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.27-07.02.02:612][  0]LogSlate: Took 0.004346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.27-07.02.02:694][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-07.02.02:740][  0]LogSlate: Took 0.003849 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.27-07.02.02:958][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.27-07.02.02:958][  0]LogLoad: (Engine Initialization) Total time: 35.53 seconds
+[2018.11.27-07.02.02:958][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.27-07.02.02:993][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.27-07.02.03:056][  1]LogAssetRegistry: Asset discovery search completed in 20.8854 seconds
+[2018.11.27-07.02.03:057][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.27-07.02.03:057][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.11.27-07.02.08:081][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.02.22:574][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.27-07.02.22:590][  0]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\minta\Creative Cloud Files\WeAreGodsAssets\Thanatos.png)
+[2018.11.27-07.02.23:474][  0]LogTexture: Display: Building textures: Thanatos (AutoDXT, 4000X4000)
+[2018.11.27-07.02.33:737][257]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/ThanatosB4B5171D49BB4DEDE24D938257F29EEC.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.uasset'
+[2018.11.27-07.02.34:485][345]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.Thanatos
+[2018.11.27-07.02.34:553][345]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.11.27-07.02.37:325][603]LogTexture: Display: Building textures: Thanatos (AutoDXT, 4000X4000)
+[2018.11.27-07.02.49:430][ 28]LogTexture: Display: Building textures: Thanatos (AutoDXT, 4000X4000)
+[2018.11.27-07.03.00:498][624]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Thanatos_SpriteEE4F9A42438A60E593B8FC8B4FED4E7A.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Thanatos/Thanatos_Sprite.uasset'
+[2018.11.27-07.03.00:587][624]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/ThanatosF640D5B44CC4411460F483B19F664E6F.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.uasset'
+[2018.11.27-07.03.09:184][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.03.09:250][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.03.09:267][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.03.09:279][631]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:03:09 PM)
+[2018.11.27-07.03.09:279][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.03.09:280][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001373s)
+[2018.11.27-07.03.09:281][631]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.03.09:281][631]LogPlayLevel: PIE: World Init took: (0.000651s)
+[2018.11.27-07.03.09:281][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002142s)
+[2018.11.27-07.03.09:312][631]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.03.09:322][631]LogInit: FAudioDevice initialized.
+[2018.11.27-07.03.09:330][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.09:386][631]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.03.09:387][631]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.03.09
+[2018.11.27-07.03.09:388][631]LogWorld: Bringing up level for play took: 0.001488
+[2018.11.27-07.03.09:403][631]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.11.27-07.03.09:408][631]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.323
+[2018.11.27-07.03.09:435][631]LogRenderer: Reallocating scene render targets to support 1932x1116 Format 10 NumSamples 1 (Frame:1).
+[2018.11.27-07.03.12:042][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.12:058][940]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.03.12:088][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.03.12:146][943]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.11.27-07.03.13:046][ 51]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Thanatos_Sprite)
+[2018.11.27-07.03.22:147][136]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-07.03.24:686][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.27-07.03.24:735][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.27-07.03.24:805][437]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_00EAB144084A796DBC7CCC598968D9BB25.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.11.27-07.03.24:835][437]LogFileHelpers: Saving map 'Level_00' took 0.145
+[2018.11.27-07.03.25:330][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.03.25:379][502]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.03.25:394][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.03.25:395][502]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:03:25 PM)
+[2018.11.27-07.03.25:395][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.03.25:396][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001315s)
+[2018.11.27-07.03.25:396][502]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.03.25:396][502]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.11.27-07.03.25:396][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001913s)
+[2018.11.27-07.03.25:429][502]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.03.25:438][502]LogInit: FAudioDevice initialized.
+[2018.11.27-07.03.25:446][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.25:491][502]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.03.25:492][502]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.03.25
+[2018.11.27-07.03.25:493][502]LogWorld: Bringing up level for play took: 0.001469
+[2018.11.27-07.03.25:509][502]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.222
+[2018.11.27-07.03.28:957][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.28:974][911]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.03.29:013][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.03.29:061][914]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.27-07.03.29:670][987]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Thanatos_Sprite)
+[2018.11.27-07.03.34:619][575]LogEditorViewport: Clicking on Actor (LMB): RhedaSpear_C (RhedaSpear)
+[2018.11.27-07.03.37:123][870]Cmd: TRANSACTION UNDO
+[2018.11.27-07.03.37:123][870]LogEditorTransaction: Undo Move Actors
+[2018.11.27-07.03.38:337][ 14]Cmd: DELETE
+[2018.11.27-07.03.38:337][ 14]Cmd: ACTOR DELETE
+[2018.11.27-07.03.38:338][ 14]LogEditorActor: Deleted Actor: RhedaSpear_C
+[2018.11.27-07.03.38:357][ 14]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2018.11.27-07.03.39:029][ 95]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy)
+[2018.11.27-07.03.39:148][105]Cmd: DELETE
+[2018.11.27-07.03.39:148][105]Cmd: ACTOR DELETE
+[2018.11.27-07.03.39:149][105]LogEditorActor: Deleted Actor: Enemy_C
+[2018.11.27-07.03.39:170][105]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.11.27-07.03.40:179][226]LogEditorViewport: Clicking on Actor (LMB): Enemy_C (Enemy2)
+[2018.11.27-07.03.40:354][243]Cmd: DELETE
+[2018.11.27-07.03.40:354][243]Cmd: ACTOR DELETE
+[2018.11.27-07.03.40:356][243]LogEditorActor: Deleted Actor: Enemy_C
+[2018.11.27-07.03.40:374][243]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.11.27-07.03.40:959][313]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Rheda_Sprite)
+[2018.11.27-07.03.43:544][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.03.43:610][626]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.03.43:626][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.03.43:626][626]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:03:43 PM)
+[2018.11.27-07.03.43:626][626]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.03.43:627][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001226s)
+[2018.11.27-07.03.43:628][626]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.03.43:628][626]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.11.27-07.03.43:628][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001825s)
+[2018.11.27-07.03.43:659][626]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.03.43:668][626]LogInit: FAudioDevice initialized.
+[2018.11.27-07.03.43:677][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.43:717][626]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.03.43:718][626]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.03.43
+[2018.11.27-07.03.43:719][626]LogWorld: Bringing up level for play took: 0.001291
+[2018.11.27-07.03.43:736][626]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.006
+[2018.11.27-07.03.50:993][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.03.51:010][492]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.03.51:048][492]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.03.51:095][495]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.27-07.03.52:789][698]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.11.27-07.04.00:288][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.04.00:354][598]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.04.00:370][598]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.04.00:370][598]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:04:00 PM)
+[2018.11.27-07.04.00:370][598]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.04.00:372][598]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001260s)
+[2018.11.27-07.04.00:372][598]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.04.00:372][598]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2018.11.27-07.04.00:372][598]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001928s)
+[2018.11.27-07.04.00:404][598]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.04.00:413][598]LogInit: FAudioDevice initialized.
+[2018.11.27-07.04.00:421][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.00:465][598]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.04.00:467][598]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.04.00
+[2018.11.27-07.04.00:468][598]LogWorld: Bringing up level for play took: 0.002135
+[2018.11.27-07.04.00:485][598]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.755
+[2018.11.27-07.04.01:966][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.01:982][771]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.04.02:017][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.04.02:066][774]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.11.27-07.04.03:065][894]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.11.27-07.04.06:325][280]Cmd: TRANSACTION UNDO
+[2018.11.27-07.04.06:325][280]LogEditorTransaction: Undo Move Actors
+[2018.11.27-07.04.06:653][318]Cmd: TRANSACTION UNDO
+[2018.11.27-07.04.06:654][318]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.27-07.04.07:369][403]Cmd: TRANSACTION UNDO
+[2018.11.27-07.04.07:370][403]LogEditorTransaction: Undo Move Actors
+[2018.11.27-07.04.07:903][467]Cmd: TRANSACTION UNDO
+[2018.11.27-07.04.07:903][467]LogEditorTransaction: Undo Move Actors
+[2018.11.27-07.04.10:096][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.04.10:154][737]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.04.10:170][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.04.10:170][737]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:04:10 PM)
+[2018.11.27-07.04.10:170][737]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.04.10:171][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2018.11.27-07.04.10:171][737]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.04.10:172][737]LogPlayLevel: PIE: World Init took: (0.000525s)
+[2018.11.27-07.04.10:172][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001833s)
+[2018.11.27-07.04.10:204][737]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.04.10:213][737]LogInit: FAudioDevice initialized.
+[2018.11.27-07.04.10:222][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.10:266][737]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.04.10:268][737]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.04.10
+[2018.11.27-07.04.10:269][737]LogWorld: Bringing up level for play took: 0.001511
+[2018.11.27-07.04.10:285][737]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.554
+[2018.11.27-07.04.15:535][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.15:551][363]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.04.15:589][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.04.15:638][366]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.11.27-07.04.17:613][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.04.17:680][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.04.17:695][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.04.17:695][611]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:04:17 PM)
+[2018.11.27-07.04.17:695][611]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.04.17:697][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001264s)
+[2018.11.27-07.04.17:697][611]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.04.17:697][611]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2018.11.27-07.04.17:697][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001863s)
+[2018.11.27-07.04.17:728][611]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.04.17:738][611]LogInit: FAudioDevice initialized.
+[2018.11.27-07.04.17:747][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.17:787][611]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.04.17:788][611]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.04.17
+[2018.11.27-07.04.17:789][611]LogWorld: Bringing up level for play took: 0.001477
+[2018.11.27-07.04.17:804][611]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.074
+[2018.11.27-07.04.40:941][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.40:957][382]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.04.40:988][382]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.04.41:044][386]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.11.27-07.04.42:345][542]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Thanatos_Sprite)
+[2018.11.27-07.04.44:763][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.04.44:813][833]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.04.44:829][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.04.44:829][833]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:04:44 PM)
+[2018.11.27-07.04.44:829][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.04.44:831][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001229s)
+[2018.11.27-07.04.44:831][833]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.04.44:831][833]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2018.11.27-07.04.44:831][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001821s)
+[2018.11.27-07.04.44:863][833]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.04.44:872][833]LogInit: FAudioDevice initialized.
+[2018.11.27-07.04.44:881][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.04.44:922][833]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.04.44:923][833]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.04.44
+[2018.11.27-07.04.44:924][833]LogWorld: Bringing up level for play took: 0.001212
+[2018.11.27-07.04.44:941][833]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.79
+[2018.11.27-07.05.29:556][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.05.29:655][825]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.05.29:694][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.05.29:984][826]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.11.27-07.06.30:024][210]LogSlate: Window 'Thanatos' being destroyed
+[2018.11.27-07.06.30:028][210]LogSlate: Window 'Thanatos' being destroyed
+[2018.11.27-07.06.30:866][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.06.30:940][314]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.06.30:956][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.06.30:956][314]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:06:30 PM)
+[2018.11.27-07.06.30:956][314]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.06.30:958][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001240s)
+[2018.11.27-07.06.30:958][314]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.06.30:958][314]LogPlayLevel: PIE: World Init took: (0.000514s)
+[2018.11.27-07.06.30:958][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001845s)
+[2018.11.27-07.06.30:991][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.06.31:000][314]LogInit: FAudioDevice initialized.
+[2018.11.27-07.06.31:009][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.06.31:051][314]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.06.31:052][314]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.06.31
+[2018.11.27-07.06.31:052][314]LogWorld: Bringing up level for play took: 0.001181
+[2018.11.27-07.06.31:068][314]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.663
+[2018.11.27-07.06.36:119][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.06.36:136][916]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.06.36:175][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.06.36:222][919]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.27-07.10.13:584][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.10.13:668][271]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.10.13:684][271]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.10.13:684][271]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:10:13 PM)
+[2018.11.27-07.10.13:684][271]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.10.13:686][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001457s)
+[2018.11.27-07.10.13:686][271]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.10.13:686][271]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.11.27-07.10.13:686][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002219s)
+[2018.11.27-07.10.13:717][271]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.10.13:727][271]LogInit: FAudioDevice initialized.
+[2018.11.27-07.10.13:736][271]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.10.13:778][271]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.10.13:779][271]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.10.13
+[2018.11.27-07.10.13:780][271]LogWorld: Bringing up level for play took: 0.001940
+[2018.11.27-07.10.13:796][271]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.066
+[2018.11.27-07.10.17:660][729]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.10.17:693][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.10.17:750][733]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.27-07.13.10:022][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.27-07.13.12:264][139]LogEditorFactories: Performing atomic reimport of [C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Thanatos.png]
+[2018.11.27-07.13.12:272][139]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Thanatos.png)
+[2018.11.27-07.13.12:884][139]LogTexture: Display: Building textures: Thanatos (AutoDXT, 4000X4000)
+[2018.11.27-07.13.18:820][139]LogEditorFactories: -- imported successfully
+[2018.11.27-07.13.21:523][241]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/ThanatosBBA8139D43DF97D72AC95BB874253B24.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.uasset'
+[2018.11.27-07.13.21:882][284]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.11.27-07.13.21:900][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.27-07.13.21:900][284]PIE: New page: PIE session: Level_00 (Nov 26, 2018, 3:13:21 PM)
+[2018.11.27-07.13.21:900][284]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.11.27-07.13.21:901][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001335s)
+[2018.11.27-07.13.21:902][284]LogAIModule: Creating AISystem for world Level_00
+[2018.11.27-07.13.21:902][284]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2018.11.27-07.13.21:902][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001991s)
+[2018.11.27-07.13.21:936][284]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.27-07.13.21:945][284]LogInit: FAudioDevice initialized.
+[2018.11.27-07.13.21:955][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.13.21:993][284]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.11.27-07.13.21:994][284]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.11.26-23.13.21
+[2018.11.27-07.13.21:995][284]LogWorld: Bringing up level for play took: 0.001200
+[2018.11.27-07.13.22:011][284]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.281
+[2018.11.27-07.14.20:768][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.27-07.14.20:785][327]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.27-07.14.20:819][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.27-07.14.20:870][330]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.27-07.31.19:338][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Saved/Autosaves/Game/Level_00_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.11.27-07.31.19:390][445]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_00_Auto1657B4D264F0C4EC2DF103E94C1CB3A25.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Saved/Autosaves/Game/Level_00_Auto1.umap'
+[2018.11.27-07.31.19:395][445]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.076
+[2018.11.27-07.31.19:395][445]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2018.11.28-00.43.04:756][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 0 (Connection 16 seems to be dead!)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 1 (Closing connection 16)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.28-00.43.05:098][911]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 4 (Closing connection 17)
+[2018.11.29-14.33.03:962][163]LogHttp: Warning: 000001C201D096C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.29-14.33.04:368][163]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 0 (Connection 366 seems to be dead!)
+[2018.11.29-14.33.04:368][163]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 1 (Closing connection 366)
+[2018.11.29-14.33.04:368][163]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.29-14.33.04:368][163]LogHttp: Warning: 000001C201D096C0: libcurl info message cache 3 (Closing connection 367)
+[2018.11.30-00.29.28:372][876]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-00.29.29:735][878]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-00.32.47:647][469]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-00.34.31:404][778]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-02.25.00:144][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-02.25.27:600][444]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{eec5e4fd-333c-48a5-92c9-1d2a05332b69} was removed. Shutting down audio device.
+[2018.11.30-02.25.27:600][444]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.713 s
+[2018.11.30-02.25.27:600][444]LogOutputDevice: Error: === Handled ensure: ===
+[2018.11.30-02.25.27:601][444]LogOutputDevice: Error: 
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: Ensure condition failed: Lhs.Array.Num() == Lhs.InitialNum [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h] [Line: 808]
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: Container has changed during ranged-for iteration!
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: Stack: 
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffbbd9e71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffbbd720c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffbbd73b356 UE4Editor-Core.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffbea8c568d UE4Editor-XAudio2.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc11a02fa1 MMDevApi.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc119ebe8f MMDevApi.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc119d4abc MMDevApi.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e6725 ntdll.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc1b38fa48 ntdll.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc18813034 KERNEL32.DLL!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: [Callstack] 0x00007ffc1b3e1471 ntdll.dll!UnknownFunction []
+[2018.11.30-02.25.27:628][444]LogOutputDevice: Error: 
+[2018.11.30-02.25.27:628][444]LogStats:                SubmitErrorReport -  0.008 s
+[2018.11.30-02.25.27:628][444]LogStats:                    SendNewReport - 16.012 s
+[2018.11.30-02.25.27:628][444]LogStats:             FDebug::EnsureFailed - 26.787 s
+[2018.11.30-02.25.27:628][444]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-02.25.51:458][516]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-02.25.56:562][531]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-02.32.58:283][788]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-02.33.15:671][840]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-02.33.23:088][862]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.30-03.39.17:618][674]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-00.48.48:397][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.12.01-02.41.06:338][579]LogInit: XAudio2 using 'Speakers (Steam Streaming Speakers)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.01-03.19.55:991][538]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-17.48.34:896][576]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.12.01-17.48.42:001][582]LogHttp: Warning: 000001C201D0B4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.01-17.48.42:002][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c25018ffa0 [can pipeline])
+[2018.12.01-17.48.42:015][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 1 (Re-using existing connection! (#986) with host datarouter.ol.epicgames.com)
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.127.66) port 443 (#986))
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 3 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 4 (Connection died, retrying a fresh connect)
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 5 (Closing connection 986)
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 6 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07D668BD-48EE-CE43-8EEA-F1BF700B6A17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=3268cf3846e540982435649cccd86ceb%7C293f596f707646eeb414a650006b57aa%7C89947f99-f9a2-4be6-941e-983e766547aa&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 7 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.01-17.48.42:016][582]LogHttp: Warning: 000001C201D0B4C0: libcurl info message cache 8 (Closing connection 987)
+[2018.12.01-18.36.48:213][406]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Sprites/Animations/Loki/Loki2.Loki2
+[2018.12.01-18.37.27:845][881]LogSlate: Window 'Replace References' being destroyed
+[2018.12.01-18.37.42:855][470]LogSlate: Took 0.126503 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.01-18.37.45:449][721]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.12.01-18.37.45:453][721]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.12.01-18.37.51:316][372]LogEditorFactories: Performing atomic reimport of [C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki2.png]
+[2018.12.01-18.37.51:334][372]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki2.png)
+[2018.12.01-18.37.51:912][372]LogTexture: Display: Building textures: Loki2 (BGRA8, 2000X2000)
+[2018.12.01-18.37.53:224][372]LogTexture: Display: Building textures: Loki2 (BGRA8, 2000X2000)
+[2018.12.01-18.37.53:723][372]LogEditorFactories: -- imported successfully
+[2018.12.01-18.38.06:976][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-18.38.07:685][896]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_009859F2804C3B74CD04018BB7A5BFAB4B.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.12.01-18.38.07:852][896]LogFileHelpers: Saving map 'Level_00' took 7.948
+[2018.12.01-18.38.07:925][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-18.38.08:010][896]LogTexture: Display: Building textures: Loki2 (AutoDXT, 2000X2000)
+[2018.12.01-18.38.09:930][896]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2D8A1787E4EF3431EC3B11F9BA2271DA3.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-18.38.18:098][337]LogEditorFactories: Performing atomic reimport of [C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png]
+[2018.12.01-18.38.18:121][337]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png)
+[2018.12.01-18.38.18:877][337]LogTexture: Display: Building textures: Loki2 (BGRA8, 4000X4000)
+[2018.12.01-18.38.20:366][337]LogEditorFactories: -- imported successfully
+[2018.12.01-18.38.30:002][354]LogAssetEditorManager: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/Animations/Loki/Loki2_Sprite.Loki2_Sprite
+[2018.12.01-18.38.42:173][998]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2_Sprite64A071B547C5C45593914588CDC64EEE.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2_Sprite.uasset'
+[2018.12.01-18.38.42:185][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-18.38.43:578][998]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2233C380E40C97C1482A7B7B6A63C64B9.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-18.38.45:158][155]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.38.54:162][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.39.01:952][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.39.02:021][735]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-18.39.02:154][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.39.02:283][735]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 2:39:02 AM)
+[2018.12.01-18.39.02:293][735]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-18.39.02:676][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.382939s)
+[2018.12.01-18.39.02:703][735]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-18.39.02:757][735]LogPlayLevel: PIE: World Init took: (0.077772s)
+[2018.12.01-18.39.02:767][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.478534s)
+[2018.12.01-18.39.03:002][735]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.39.03:013][735]LogInit: FAudioDevice initialized.
+[2018.12.01-18.39.03:102][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.03:233][735]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-18.39.03:430][735]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-10.39.03
+[2018.12.01-18.39.03:431][735]LogWorld: Bringing up level for play took: 0.019180
+[2018.12.01-18.39.04:357][735]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 2.755
+[2018.12.01-18.39.11:133][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.11:150][411]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-18.39.11:335][411]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.39.11:417][412]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.12.01-18.39.12:610][549]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.39.18:518][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.39.20:640][355]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.39.23:460][653]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Thanatos_Sprite)
+[2018.12.01-18.39.25:133][823]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.39.27:313][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.39.27:377][ 45]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-18.39.27:396][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.39.27:396][ 45]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 2:39:27 AM)
+[2018.12.01-18.39.27:396][ 45]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-18.39.27:398][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001314s)
+[2018.12.01-18.39.27:398][ 45]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-18.39.27:398][ 45]LogPlayLevel: PIE: World Init took: (0.000573s)
+[2018.12.01-18.39.27:398][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001983s)
+[2018.12.01-18.39.27:445][ 45]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.39.27:456][ 45]LogInit: FAudioDevice initialized.
+[2018.12.01-18.39.27:467][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.27:511][ 45]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-18.39.27:512][ 45]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-10.39.27
+[2018.12.01-18.39.27:513][ 45]LogWorld: Bringing up level for play took: 0.000805
+[2018.12.01-18.39.27:530][ 45]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.06
+[2018.12.01-18.39.47:106][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.47:127][176]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-18.39.47:161][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.39.47:444][177]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.01-18.39.48:775][181]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.39.52:180][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.39.53:283][608]LogSlate: Took 0.044923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.01-18.39.54:044][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-18.39.54:062][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.39.54:063][681]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 2:39:54 AM)
+[2018.12.01-18.39.54:063][681]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-18.39.54:064][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001359s)
+[2018.12.01-18.39.54:065][681]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-18.39.54:065][681]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2018.12.01-18.39.54:065][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002015s)
+[2018.12.01-18.39.54:110][681]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.39.54:121][681]LogInit: FAudioDevice initialized.
+[2018.12.01-18.39.54:133][681]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.54:183][681]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-18.39.54:184][681]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-10.39.54
+[2018.12.01-18.39.54:185][681]LogWorld: Bringing up level for play took: 0.000789
+[2018.12.01-18.39.54:203][681]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.613
+[2018.12.01-18.39.56:497][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.39.56:514][925]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-18.39.56:550][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.39.56:607][927]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.01-18.40.08:119][358]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-18.40.11:713][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.40.14:899][994]LogTexture: Display: Building textures: Loki2 (AutoDXT, 4000X4000)
+[2018.12.01-18.40.22:699][217]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-18.40.22:716][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-18.40.22:716][217]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 2:40:22 AM)
+[2018.12.01-18.40.22:716][217]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-18.40.22:717][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001238s)
+[2018.12.01-18.40.22:718][217]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-18.40.22:718][217]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2018.12.01-18.40.22:718][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.001888s)
+[2018.12.01-18.40.22:763][217]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-18.40.22:774][217]LogInit: FAudioDevice initialized.
+[2018.12.01-18.40.22:785][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.40.22:829][217]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-18.40.22:830][217]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-10.40.22
+[2018.12.01-18.40.22:831][217]LogWorld: Bringing up level for play took: 0.000766
+[2018.12.01-18.40.22:848][217]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.741
+[2018.12.01-18.40.23:868][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-18.40.23:887][329]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-18.40.23:927][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-18.40.23:969][330]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.01-18.40.25:524][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.40.34:722][435]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.40.34:786][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-18.40.34:860][435]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_00EB4DACC4452253C958C1E59167F1986B.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.12.01-18.40.34:899][435]LogFileHelpers: Saving map 'Level_00' took 0.171
+[2018.12.01-18.40.34:906][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-18.40.35:067][435]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki264B79E484F5565DED55735A00F651F53.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-18.57.57:852][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.57.57:901][196]LogSlate: Took 0.042304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.12.01-18.58.02:398][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.58.07:659][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.58.24:273][230]LogTexture: Display: Building textures: Loki2 (RGBA16F, 4000X4000)
+[2018.12.01-18.58.29:741][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-18.58.29:912][660]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2967EACAB43733F749C1D85AB23DC3FC0.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-18.58.33:769][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-18.58.36:302][341]LogTexture: Display: Building textures: Loki2 (BGRA8, 4000X4000)
+[2018.12.01-18.58.42:610][828]LogTexture: Display: Building textures: Loki2 (BGRA8, 4000X4000)
+[2018.12.01-18.58.49:106][482]LogTexture: Display: Building textures: Loki2 (RGBA16F, 4000X4000)
+[2018.12.01-18.58.58:589][400]LogTexture: Display: Building textures: Loki2 (BC5, 4000X4000)
+[2018.12.01-18.59.01:583][558]LogTexture: Display: Building textures: Loki2 (AutoDXT, 4000X4000)
+[2018.12.01-18.59.07:448][558]LogTexture: Display: Building textures: Loki2 (AutoDXT, 4000X4000)
+[2018.12.01-18.59.16:232][908]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level_00' took 0.021
+[2018.12.01-18.59.16:259][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Sprites/Animations/Loki/Loki2] ([1] browsable assets)...
+[2018.12.01-18.59.16:266][908]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Sprites/Animations/Loki/Loki2.Loki2]
+[2018.12.01-18.59.16:266][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Sprites/Animations/Loki/Loki2]
+[2018.12.01-18.59.16:382][908]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2_Auto2CB3EA2354629E71E3B90839DD1019E7D.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Saved/Autosaves/Game/2DSideScroller/Sprites/Animations/Loki/Loki2_Auto2.uasset'
+[2018.12.01-18.59.16:383][908]LogFileHelpers: Auto-saving content packages took 0.151
+[2018.12.01-18.59.18:266][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.59.20:429][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-18.59.20:591][360]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2302B9326424766302502D09F530733B9.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-18.59.46:229][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-18.59.48:918][741]LogEditorFactories: Performing atomic reimport of [C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png]
+[2018.12.01-18.59.48:930][741]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png)
+[2018.12.01-18.59.49:621][741]LogTexture: Display: Building textures: Loki2 (BGRA8, 4000X4000)
+[2018.12.01-18.59.51:442][741]LogEditorFactories: -- imported successfully
+[2018.12.01-19.02.07:705][886]LogEditorFactories: Performing atomic reimport of [C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png]
+[2018.12.01-19.02.07:724][886]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/minta/Creative Cloud Files/WeAreGodsAssets/Loki.png)
+[2018.12.01-19.02.08:407][886]LogTexture: Display: Building textures: Loki2 (BGRA8, 4000X4000)
+[2018.12.01-19.02.09:939][886]LogEditorFactories: -- imported successfully
+[2018.12.01-19.02.17:912][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.01-19.02.17:920][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-19.02.18:000][789]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_0063E809554339364D0972048FBB3044A6.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.12.01-19.02.20:125][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.02.21:289][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-19.02.21:342][151]LogTexture: Display: Building textures: Loki2 (AutoDXT, 4000X4000)
+[2018.12.01-19.02.27:706][151]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2A51EF4494EC581C4E0CC1D8992807073.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-19.02.28:175][206]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Loki2_Sprite)
+[2018.12.01-19.02.29:386][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.02.34:069][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.02.34:139][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-19.02.34:158][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-19.02.34:158][831]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 3:02:34 AM)
+[2018.12.01-19.02.34:158][831]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-19.02.34:160][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001513s)
+[2018.12.01-19.02.34:160][831]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-19.02.34:160][831]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2018.12.01-19.02.34:160][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002296s)
+[2018.12.01-19.02.34:207][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-19.02.34:218][831]LogInit: FAudioDevice initialized.
+[2018.12.01-19.02.34:231][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.02.34:282][831]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-19.02.34:283][831]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-11.02.34
+[2018.12.01-19.02.34:284][831]LogWorld: Bringing up level for play took: 0.000844
+[2018.12.01-19.02.34:301][831]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.712
+[2018.12.01-19.02.54:093][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.02.54:112][ 42]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-19.02.54:147][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-19.02.54:202][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.01-19.02.59:569][616]LogTexture: Display: Building textures: Loki2 (RGBA16F, 4000X4000)
+[2018.12.01-19.03.03:948][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-19.03.04:022][925]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_0082269A2343FE84F102B4DDAC59D13C68.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.12.01-19.03.04:061][925]LogFileHelpers: Saving map 'Level_00' took 0.171
+[2018.12.01-19.03.04:069][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Loki/Loki2" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset" SILENT=true
+[2018.12.01-19.03.04:199][925]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Loki2E0D3DDB04FBC5DAAA73DC1B03D345934.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Loki/Loki2.uasset'
+[2018.12.01-19.03.04:724][985]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-19.03.04:742][985]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-19.03.04:743][985]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 3:03:04 AM)
+[2018.12.01-19.03.04:743][985]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-19.03.04:744][985]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001540s)
+[2018.12.01-19.03.04:749][985]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-19.03.04:749][985]LogPlayLevel: PIE: World Init took: (0.004614s)
+[2018.12.01-19.03.04:749][985]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.006307s)
+[2018.12.01-19.03.04:797][985]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-19.03.04:808][985]LogInit: FAudioDevice initialized.
+[2018.12.01-19.03.04:819][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.03.04:866][985]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-19.03.04:867][985]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-11.03.04
+[2018.12.01-19.03.04:867][985]LogWorld: Bringing up level for play took: 0.000761
+[2018.12.01-19.03.04:884][985]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 -0.706
+[2018.12.01-19.03.08:265][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.03.08:286][352]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-19.03.08:317][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-19.03.08:373][354]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.12.01-19.03.10:702][624]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Sprites/Animations/Rheda/Rheda.Rheda
+[2018.12.01-19.03.16:349][203]LogTexture: Display: Building textures: Rheda (RGBA16F, 4000X4000)
+[2018.12.01-19.03.19:337][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Animations/Rheda/Rheda" FILE="C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Rheda/Rheda.uasset" SILENT=true
+[2018.12.01-19.03.19:520][359]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/RhedaDC8B5B1343DEBFE686C546B046551883.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Rheda/Rheda.uasset'
+[2018.12.01-19.03.20:167][432]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-19.03.20:185][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-19.03.20:185][432]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 3:03:20 AM)
+[2018.12.01-19.03.20:185][432]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-19.03.20:186][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001334s)
+[2018.12.01-19.03.20:187][432]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-19.03.20:187][432]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2018.12.01-19.03.20:187][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002103s)
+[2018.12.01-19.03.20:235][432]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-19.03.20:247][432]LogInit: FAudioDevice initialized.
+[2018.12.01-19.03.20:258][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.03.20:306][432]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-19.03.20:308][432]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-11.03.20
+[2018.12.01-19.03.20:308][432]LogWorld: Bringing up level for play took: 0.001079
+[2018.12.01-19.03.20:327][432]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.737
+[2018.12.01-19.03.29:228][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.03.29:247][436]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-19.03.29:276][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-19.03.29:334][438]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.12.01-19.03.32:213][773]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.Thanatos
+[2018.12.01-19.03.36:064][152]LogTexture: Display: Building textures: Thanatos (RGBA16F, 4000X4000)
+[2018.12.01-19.03.40:237][422]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Thanatos5D141CCF4675C3F0F6F436B9492B462C.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/2DSideScroller/Sprites/Animations/Thanatos/Thanatos.uasset'
+[2018.12.01-19.03.43:376][789]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Thanatos_Sprite)
+[2018.12.01-19.03.46:072][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.01-19.03.46:156][ 84]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.12.01-19.03.46:176][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.01-19.03.46:176][ 84]PIE: New page: PIE session: Level_00 (Dec 1, 2018, 3:03:46 AM)
+[2018.12.01-19.03.46:176][ 84]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level_00
+[2018.12.01-19.03.46:177][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001237s)
+[2018.12.01-19.03.46:178][ 84]LogAIModule: Creating AISystem for world Level_00
+[2018.12.01-19.03.46:178][ 84]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2018.12.01-19.03.46:178][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level_00.Level_00 to /Game/UEDPIE_0_Level_00.Level_00 (0.002013s)
+[2018.12.01-19.03.46:222][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.01-19.03.46:234][ 84]LogInit: FAudioDevice initialized.
+[2018.12.01-19.03.46:246][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.03.46:299][ 84]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.12.01-19.03.46:300][ 84]LogWorld: Bringing World /Game/UEDPIE_0_Level_00.Level_00 up for play (max tick rate 0) at 2018.12.01-11.03.46
+[2018.12.01-19.03.46:301][ 84]LogWorld: Bringing up level for play took: 0.000833
+[2018.12.01-19.03.46:319][ 84]PIE: Play in editor start time for /Game/UEDPIE_0_Level_00 0.729
+[2018.12.01-19.04.01:055][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.01-19.04.01:073][747]LogSlate: Window 'WeAreGods Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.01-19.04.01:106][747]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.01-19.04.01:159][749]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2018.12.01-19.04.10:382][910]LogSlate: Window 'Thanatos' being destroyed
+[2018.12.01-19.04.10:386][910]LogSlate: Window 'Thanatos' being destroyed
+[2018.12.01-19.04.14:083][103]LogSlate: Window 'Save Content' being destroyed
+[2018.12.01-19.04.14:156][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level_00" FILE="C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.01-19.04.14:223][103]LogSavePackage: Moving 'C:/GitProjects/WeAreGods-Unreal/Saved/Level_009825DE01457B6C7B94208686591199AD.tmp' to 'C:/GitProjects/WeAreGods-Unreal/Content/Level_00.umap'
+[2018.12.01-19.04.14:256][103]LogFileHelpers: Saving map 'Level_00' took 0.153
+[2018.12.01-19.04.14:488][103]LogSlate: Window 'WeAreGods - Unreal Editor' being destroyed
+[2018.12.01-19.04.14:516][103]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-19.04.15:102][104]Cmd: QUIT_EDITOR
+[2018.12.01-19.04.16:270][104]LogExit: Preparing to exit.
+[2018.12.01-19.04.18:899][104]LogExit: Editor shut down
+[2018.12.01-19.04.18:908][104]LogExit: Transaction tracking system shut down
+[2018.12.01-19.04.22:610][104]LogExit: Object subsystem successfully closed.
+[2018.12.01-19.04.22:968][104]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.01-19.04.23:021][104]LogD3D11RHI: Shutdown
+[2018.12.01-19.04.23:021][104]LogD3D11RHI: CleanupD3DDevice
+[2018.12.01-19.04.23:299][104]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.01-19.04.29:269][104]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.12.01-19.04.29:269][104]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.12.01-19.04.29:286][104]LogModuleManager: Shutting down and abandoning module TextureEditor (612)
+[2018.12.01-19.04.29:309][104]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.12.01-19.04.29:309][104]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.12.01-19.04.29:310][104]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.12.01-19.04.29:395][104]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.12.01-19.04.29:395][104]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.12.01-19.04.29:395][104]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.12.01-19.04.29:565][104]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.01-19.04.29:596][104]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.01-19.04.29:596][104]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.01-19.04.29:633][104]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.01-19.04.29:645][104]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.01-19.04.29:645][104]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.01-19.04.29:645][104]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.01-19.04.29:651][104]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.01-19.04.29:651][104]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.01-19.04.29:654][104]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.01-19.04.29:654][104]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.01-19.04.29:654][104]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.01-19.04.29:664][104]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.01-19.04.29:664][104]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.01-19.04.29:694][104]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.01-19.04.29:783][104]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.01-19.04.29:846][104]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.01-19.04.29:847][104]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.01-19.04.29:891][104]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.01-19.04.29:909][104]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.01-19.04.29:909][104]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.01-19.04.30:032][104]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.01-19.04.30:056][104]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.01-19.04.30:056][104]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.01-19.04.30:056][104]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.01-19.04.30:070][104]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.01-19.04.30:168][104]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.01-19.04.30:183][104]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.01-19.04.30:265][104]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.01-19.04.30:336][104]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.01-19.04.30:369][104]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.01-19.04.30:369][104]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.01-19.04.30:395][104]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.01-19.04.30:395][104]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.01-19.04.30:416][104]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.01-19.04.31:227][104]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.01-19.04.31:227][104]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.01-19.04.31:227][104]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.01-19.04.31:227][104]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.01-19.04.31:227][104]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.01-19.04.31:255][104]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.01-19.04.31:274][104]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.01-19.04.31:285][104]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.01-19.04.31:293][104]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.01-19.04.31:293][104]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.01-19.04.31:303][104]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.01-19.04.31:307][104]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.01-19.04.31:334][104]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.01-19.04.31:359][104]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.01-19.04.31:359][104]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.01-19.04.31:379][104]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.01-19.04.31:379][104]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.01-19.04.31:442][104]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.01-19.04.31:477][104]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.01-19.04.31:495][104]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.01-19.04.31:500][104]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.01-19.04.31:530][104]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.01-19.04.31:607][104]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.01-19.04.31:653][104]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.01-19.04.31:673][104]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.01-19.04.31:694][104]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.01-19.04.31:694][104]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.01-19.04.31:702][104]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.01-19.04.31:702][104]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.01-19.04.31:792][104]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.01-19.04.31:792][104]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.01-19.04.31:799][104]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.01-19.04.31:852][104]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.01-19.04.31:865][104]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.01-19.04.31:893][104]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.01-19.04.31:893][104]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.01-19.04.31:909][104]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.01-19.04.32:017][104]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.01-19.04.32:026][104]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.01-19.04.32:055][104]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.01-19.04.32:055][104]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.01-19.04.32:055][104]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.01-19.04.32:075][104]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.01-19.04.32:107][104]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.01-19.04.32:107][104]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.01-19.04.32:114][104]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.01-19.04.32:114][104]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.01-19.04.32:123][104]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.01-19.04.32:244][104]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.01-19.04.32:261][104]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.01-19.04.32:274][104]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.01-19.04.32:313][104]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.01-19.04.32:317][104]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.01-19.04.32:317][104]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.01-19.04.32:317][104]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.01-19.04.32:327][104]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.01-19.04.32:327][104]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.01-19.04.32:327][104]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.01-19.04.32:327][104]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.01-19.04.32:338][104]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.01-19.04.32:338][104]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.01-19.04.32:338][104]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.01-19.04.32:338][104]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.01-19.04.32:348][104]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.01-19.04.32:348][104]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.01-19.04.32:348][104]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.01-19.04.32:354][104]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.01-19.04.32:354][104]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.01-19.04.32:354][104]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.01-19.04.32:373][104]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.01-19.04.32:391][104]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.01-19.04.32:391][104]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.01-19.04.32:391][104]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.01-19.04.32:414][104]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.01-19.04.32:414][104]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.01-19.04.32:419][104]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.01-19.04.32:419][104]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.01-19.04.32:419][104]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.01-19.04.32:430][104]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.01-19.04.32:446][104]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.01-19.04.32:455][104]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.01-19.04.32:465][104]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.01-19.04.32:475][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.01-19.04.32:476][104]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.01-19.04.32:476][104]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.01-19.04.32:476][104]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.01-19.04.32:490][104]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.01-19.04.32:490][104]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.01-19.04.32:490][104]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.01-19.04.32:515][104]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.01-19.04.32:515][104]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.01-19.04.32:521][104]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.01-19.04.32:521][104]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.01-19.04.32:521][104]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.01-19.04.32:521][104]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.01-19.04.32:521][104]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.01-19.04.32:622][104]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.01-19.04.32:734][104]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.01-19.04.32:734][104]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.01-19.04.32:742][104]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.01-19.04.32:748][104]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.01-19.04.32:748][104]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.01-19.04.32:757][104]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.01-19.04.32:783][104]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.01-19.04.32:870][104]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.01-19.04.32:893][104]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.01-19.04.32:908][104]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.01-19.04.32:909][104]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.01-19.04.32:945][104]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.01-19.04.32:947][104]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.01-19.04.32:974][104]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.01-19.04.32:974][104]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.01-19.04.32:974][104]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.01-19.04.32:974][104]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.01-19.04.32:986][104]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.01-19.04.33:001][104]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.01-19.04.33:007][104]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.01-19.04.33:007][104]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.01-19.04.33:007][104]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.01-19.04.33:068][104]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.01-19.04.33:068][104]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.01-19.04.33:068][104]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.01-19.04.33:068][104]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.01-19.04.33:097][104]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.01-19.04.33:121][104]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.01-19.04.33:121][104]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.01-19.04.33:154][104]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.01-19.04.33:182][104]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.01-19.04.33:199][104]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.01-19.04.33:278][104]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.01-19.04.33:278][104]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.01-19.04.33:301][104]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.01-19.04.33:330][104]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.01-19.04.33:341][104]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.01-19.04.33:373][104]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.01-19.04.33:373][104]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.01-19.04.33:435][104]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.01-19.04.33:435][104]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.01-19.04.33:449][104]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.01-19.04.33:474][104]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.01-19.04.33:502][104]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.01-19.04.33:511][104]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.01-19.04.33:511][104]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.01-19.04.33:536][104]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.01-19.04.33:577][104]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.01-19.04.33:606][104]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.01-19.04.33:615][104]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.01-19.04.33:652][104]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.01-19.04.33:653][104]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.01-19.04.33:696][104]LogDerivedDataCache: Shutdown
+[2018.12.01-19.04.33:696][104]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.01-19.04.33:723][104]LogXGEController: Cleaning working directory: C:/Users/minta/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.01-19.04.33:723][104]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.01-19.04.33:737][104]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.01-19.04.33:743][104]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.01-19.04.33:759][104]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.01-19.04.33:768][104]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.01-19.04.33:778][104]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.01-19.04.33:804][104]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.01-19.04.33:804][104]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.01-19.04.33:804][104]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.01-19.04.33:804][104]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.01-19.04.33:862][104]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.01-19.04.33:862][104]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.01-19.04.33:862][104]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.01-19.04.33:895][104]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.01-19.04.33:895][104]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.01-19.04.33:895][104]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.01-19.04.33:895][104]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.01-19.04.33:895][104]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.01-19.04.33:896][104]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.01-19.04.33:921][104]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.01-19.04.33:937][104]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.01-19.04.33:938][104]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.01-19.04.33:975][104]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.01-19.04.33:975][104]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.01-19.04.33:981][104]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.01-19.04.33:981][104]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.01-19.04.34:034][104]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.01-19.04.34:034][104]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.01-19.04.34:046][104]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.01-19.04.34:051][104]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.01-19.04.34:068][104]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.01-19.04.34:069][104]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.01-19.04.34:083][104]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.01-19.04.34:117][104]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.01-19.04.34:131][104]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.01-19.04.34:131][104]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.01-19.04.34:131][104]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.01-19.04.34:131][104]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.01-19.04.34:132][104]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.01-19.04.34:132][104]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.01-19.04.34:147][104]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.01-19.04.34:147][104]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.01-19.04.34:147][104]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.01-19.04.34:147][104]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.01-19.04.34:160][104]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.01-19.04.34:197][104]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.01-19.04.34:252][104]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.01-19.04.34:290][104]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.01-19.04.34:292][104]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B07D668BD-48EE-CE43-8EEA-F1BF700B6A17%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=3268cf3846e540982435649cccd86ceb%7C293f596f707646eeb414a650006b57aa%7C89947f99-f9a2-4be6-941e-983e766547aa&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.01-19.04.34:320][104]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.01-19.04.34:355][104]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.01-19.04.34:363][104]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.01-19.04.34:363][104]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.01-19.04.34:390][104]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.01-19.04.34:390][104]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.01-19.04.34:415][104]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.01-19.04.34:428][104]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.01-19.04.34:563][104]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.01-19.04.34:581][104]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.01-19.04.34:581][104]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.01-19.04.34:581][104]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.01-19.04.34:581][104]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.01-19.04.34:620][104]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.01-19.04.34:638][104]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.01-19.04.34:666][104]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.01-19.04.34:666][104]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.01-19.04.34:672][104]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.01-19.04.34:681][104]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.01-19.04.34:764][104]LogExit: Exiting.
+[2018.12.01-19.04.34:791][104]Log file closed, 12/01/18 11:04:34
